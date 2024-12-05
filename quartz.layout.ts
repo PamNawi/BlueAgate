@@ -30,9 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Darkmode(),
     Component.Graph(),
-    Component.Search(),
     Component.TagList(),
   ],
 }
