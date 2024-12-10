@@ -8,7 +8,15 @@ title: Aexia - Introduction
 aliases:
   - Aexia
 ---
-![[Aexia - FichaTecnica]]
+<video controls width="640"> <source src="https://video.fastly.steamstatic.com/store_trailers/256955241/movie480_vp9.webm?t=1704740371" type="video/webm"> Seu navegador não suporta a reprodução de vídeos no formato WebM. </video>
+
+<div style="display: flex;"> 
+<img src="https://logosdownload.com/logo/Steam-Icon-logo-512.png" style="height: 40px;"> 
+<img src="https://store.cloudflare.steamstatic.com/public/images/v6/ico/ico_vr_support.png" style="height: 40px; margin-right: 10px;"> 
+<img src="https://companieslogo.com/img/orig/U_BIG-1ad04207.png?t=1634728034"  style="height: 40px; margin-right: 10px;"> 
+<img src="https://logosdownload.com/logo/jira-logo-512.png"  style="height: 40px; margin-right: 10px;"> 
+<img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png"  style="height: 40px; margin-right: 10px;"> 
+</div>
 
 I worked from July 2022 until February 2024 on **[Aexia](https://store.steampowered.com/app/2480260/Aexia/)** which is a platform for creating, sharing and play playing VR role-playing games. I worked originally as a programmer, but I worked also as a scrum master, product owner and later on 2023 I worked as a level designer.
 
