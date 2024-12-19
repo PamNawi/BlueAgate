@@ -2,7 +2,6 @@
 tags:
   - LevelDesign
   - CGMA
-draft: "true"
 ---
 # Story Missions
 A mission should have a clear objective for the player accomplish. Examples:
@@ -84,65 +83,33 @@ Templates or structures for designing engaging combat serve as starting points f
 - _Multi-Stage:_ The battle field change during the battle as the boss IA
 
 # Tutorials
-Tutorials in games are designed to introduce players to game's mechanics, controls and core concepts. They provide guidance and instructions to help players understand how to play the game and navigate its features effectively
+A tutorial is designed a game mechanic, control or core concept is introduced to the players. Level designers should allocate dedicated areas where players can learn and practice new mechanics or concepts at their own pace. Its common to create placeholder tutorials to test and iterate, these prototypes should provide a rough representation of the intended experience.
 
-Level designers should allocate dedicated areas where players can learn and practice new mechanics or concepts without distractions
-- These spaces should be designed in a way that allows players to experiment and understand the mechanics at their own pace
+⭐By providing a separate tutorial space, players can focus on learning without the risk of failure or being overwhelmed by other gameplay elements.
 
-Placeholder tutorials can be used during the level design process to test and iterate on the tutorial sequences. These temporary tutorials provide a rough representation of the intended tutorial experience.
-- By providing a separate tutorial space, players can focus on learning without the risk of failure or being overwhelmed by other gameplay elements
-
-Integrate tutorial elements within the gameplay environment itself, such as using visual cues, environmental storytelling, or non-playable characters to guide and educate players.
+If possible, try to integrate the tutorial elements within the gameplay, by using visual cues, environmental storytelling, or non-playable characters to guide and educate players this way they can learn by engaging with the game world. Some examples of tutorials without "words":
 - Place a glowing object near a locked door can indicate that the player needs to find a key to unlock it. The visual cue guides the player without explicitly stating what they need to do.
-
-By embedding tutorials seamlessly into the level design players can learn while actively engaging with the game world, enhancing their immersion and understanding of the mechanics
 - Use the environment itself to provide subtle tutorials. For a first person shooter, the first level might include a shooting range where the players can practice their aim and learn to controls before facing real enemies.
 
-Designers can use the environment to provide subtle hints and clues. For instance, if players encounter a room with scattered papers and broken window, it suggests that there was a struggle or escape
-- This environmental storytelling can imply that the players should investigate further or be cautious in that area
-
-
-NPCs can be utilized to provide in-game guidance and tutorials. For example, an NPC companion can offer advice on combat techniques or explain the use of special abilities
-- By integrating helpful NPCs into the game world, players can learn important gameplay mechanics while interacting with the characters
-
-Level designers can introduce tutorials elements as part of gameplay itself. For instance, early levels of a platformer game might include simple jump sequences or obstacle courses to familiarize players with controls and mechanics
-- This way, players learn by doing, gradually mastering gameplay as they progress
-
+Some games also utilize their NPCs to provide some guidance and tutorials by integrating helpful NPCs into the game world, players can learn important gameplay mechanics while interacting with the characters
 # Valves and Air locks
+On bigger games its important that the level designer segment the game to plan a better experience as for allow a seamless load.
 
 ### Valves:
-A design technique that restricts player movement or progress in a certain direction, typically to create a linear narrative experience
-- Valves help level designers shape the player's journey, maintain narrative coherence, guide gameplay progression, and enhance the overall game experience by providing structure, direction and moments of tension and reward.
+A design technique that restricts player movement or progress in a certain direction, typically to create a linear narrative experience. The valves help level designers shape the player's journey, maintain narrative coherence, guide gameplay progression, and enhance the overall game experience by providing structure, direction and moments of tension and reward. They are points of no return where the player can't backtrack or even go to previous sections. Doing this, the level design guarantee that players move forward and experience the game's story in the intended order. This techniques is often used to control the pacing and narrative flow of the game. You can also separate gameplay like dropping them into a combat scenario.
 
-Really just points of no return or areas where the player's ability to backtrack or go back to previous sections of the level is intentionally blocked or limited
-- By blocking off previous areas, level designers an ensure that players move forward and experience the game's story in the intended order
+⭐ Valves help prevent players to becoming lost or overwhelmed by providing a structured and directed gameplay experience.
+⭐Valves can be used to mark significant milestones or checkpoints in the game. Crossing a valve often signifies progress and serves as a reward for the player's accomplishments
 
-This techniques is often used to control the pacing and narrative flow of the game. You can also separate gameplay like dropping them into a combat scenario.
-- Valves help prevent players to becoming lost or overwhelmed by providing a structured and directed gameplay experience
-
-Valves can be used to mark significant milestones or checkpoints in the game. Crossing a valve often signifies progress and serves as a reward for the player's accomplishments
-
-The player may encounter locked doors or barriers that can only be opened by activating valves located elsewhere in the level. Opening these valves grants access to new paths, secrets or rewards
-
-Valves can be incorporated into time-based challenges, where the player needs to reach a specific location before the valve closes. This creates a sense of urgency and tests the player's speed and agility.
+The player may encounter locked doors or barriers that can only be opened by activating valves located elsewhere in the level. Opening these valves grants access to new paths, secrets or rewards. Valves can be incorporated into time-based challenges, where the player needs to reach a specific location before the valve closes. This creates a sense of urgency and tests the player's speed and agility.
 
 ### Air Locks
-Transitional spaces or areas where the game loads the next section while the player is still able to play, effectively hiding the loading process
+These are transitional spaces or areas where the game loads the next section while the player is still able to play, effectively hiding the loading process. This technique was applied on the first God Of War and was used to create a seamless transition between different areas or levels without interrupting the player's experience with visible loading screens or significant pauses.
 
-This helps create a seamless transition between different areas or levels without interrupting the player's experience with visible loading screens or significant pauses
-
-- This allows them to establish the desired atmosphere, highlight important events or points of interest and guide the player's focus
-
-Air locks are commonly used to maintain immersion and flow within the game, allowing players to smoothly transition between gameplay segments or environments
-- Cameras and cutscenes are great way to also organize your gameplay beats
-
-Transitioning to new areas: when the player moves from one major area or zone to another, such as entering a new city district, a different biome or a different floor of a building, an airlock can be used to mask the loading screen or loading time
-
-!!! The original God Of War did that a lot
-
-Multiplayer Environments: In multiplayer games, airlocks can be used to synchronize and load new players into a shared game session without interrupting the experience for existing players.
+❗ _Multiplayer Environments:_ In multiplayer games, airlocks can be used to synchronize and load new players into a shared game session without interrupting the experience for existing players.
 - This ensures that everyone enters the game world at the same time and in a coordinated manner
 
-Cinematics also can be used to hide the loading and transition between open/closed environments
+Cinematics also can be used to hide the loading and transition between open/closed environments. Since the gamedevs can predict the time some are take to load, they can study ways of integrating cutscenes.
+
 
 ![[Week 07 - Assignment]]

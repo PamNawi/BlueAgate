@@ -1,7 +1,7 @@
 <a href="https://drive.google.com/drive/folders/1V7qTN0s8ZL2vuaD_G1HIhC-jPPbomEMh?usp=drive_link" target="_blank"> <img src="https://i.imgur.com/aHTOsaT.gif"  title="Get the project on Google Drive" style="max-width: 100%; border-radius: 0px; vertical-align: middle;"> 
 </a>
 
-Last week! The theme for this week was open, so I took the opportunity to combine the jungle temple and the sci-fi on the same map. I did some major modifications since giant spiders don't feel a good transport inside a jungle, now we have some frog fairy spaceships . The map got really big, really fast, so will take some time to load, even if it can be easily sliced up for background loading, for now I don't know how to sooooo 1 step at a time... Some areas need more attention still would improve a lot, specially on the combat zones, but without a real combat mechanics I feel like don't have much to plan and play, so it is what it is.
+Last assignment! The theme for this week was open, so I took the opportunity to combine the jungle temple and the sci-fi on the same map. I did some major modifications since giant spiders don't feel a good transport inside a jungle, now we have some frog fairy spaceships . The map got really big, really fast, so will take some time to load, even if it can be easily sliced up for background loading, for now I don't know how to sooooo 1 step at a time... Some areas need more attention still would improve a lot, specially on the combat zones, but without a real combat mechanics I feel like don't have much to plan and play, so it is what it is.
 
 <div class="carousel-container">
 <section class="slider" id="week09"> 

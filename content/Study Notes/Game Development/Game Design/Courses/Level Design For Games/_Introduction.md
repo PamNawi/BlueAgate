@@ -22,13 +22,15 @@ I took the [CGMaser Academy Level Design For Games](https://www.gameart.cgmaster
 - [[Week 05]]
 - [[Week 06]] <a href="https://drive.google.com/drive/folders/1FT2VRcZf4dUXWkSrduXco8uV9wsnVd0d?usp=drive_link" target="_blank"> <img src="https://web.archive.org/web/20090831071100/http://geocities.com/rafaelbarreto/piadas/Download.gif"  title="Get the project on Google Drive" style="max-width: 100%; border-radius: 0px; vertical-align: middle;"> 
 </a>
--  Week 07 - TDB <a href="https://drive.google.com/drive/folders/1GDrEI4Khwn4kGx3-Sx42rP_ygr7Mcp90?usp=drive_link" target="_blank"> <img src="https://web.archive.org/web/20090831071100/http://geocities.com/rafaelbarreto/piadas/Download.gif"  title="Get the project on Google Drive" style="max-width: 100%; border-radius: 0px; vertical-align: middle;"> 
+- [[Week 07]] <a href="https://drive.google.com/drive/folders/1GDrEI4Khwn4kGx3-Sx42rP_ygr7Mcp90?usp=drive_link" target="_blank"> <img src="https://web.archive.org/web/20090831071100/http://geocities.com/rafaelbarreto/piadas/Download.gif"  title="Get the project on Google Drive" style="max-width: 100%; border-radius: 0px; vertical-align: middle;"> 
 </a>
--  Week 08 - TDB <a href="https://drive.google.com/drive/folders/1IPT0uSbV-jCYJBL0t8k9sIu_NsZ8B01k?usp=drive_link" target="_blank"> <img src="https://web.archive.org/web/20090831071100/http://geocities.com/rafaelbarreto/piadas/Download.gif"  title="Get the project on Google Drive" style="max-width: 100%; border-radius: 0px; vertical-align: middle;"> 
+-  [[Week 08]] <a href="https://drive.google.com/drive/folders/1IPT0uSbV-jCYJBL0t8k9sIu_NsZ8B01k?usp=drive_link" target="_blank"> <img src="https://web.archive.org/web/20090831071100/http://geocities.com/rafaelbarreto/piadas/Download.gif"  title="Get the project on Google Drive" style="max-width: 100%; border-radius: 0px; vertical-align: middle;"> 
 </a>
--  Week 09 - TDB
+- [[Week 09]] <a href="https://drive.google.com/drive/folders/1V7qTN0s8ZL2vuaD_G1HIhC-jPPbomEMh?usp=drive_link" target="_blank"> <img src="https://web.archive.org/web/20090831071100/http://geocities.com/rafaelbarreto/piadas/Download.gif"  title="Get the project on Google Drive" style="max-width: 100%; border-radius: 0px; vertical-align: middle;"> 
+</a>
 -  Week 10 - TDB <a href="https://drive.google.com/drive/folders/1V7qTN0s8ZL2vuaD_G1HIhC-jPPbomEMh?usp=drive_link" target="_blank"> <img src="https://web.archive.org/web/20090831071100/http://geocities.com/rafaelbarreto/piadas/Download.gif"  title="Get the project on Google Drive" style="max-width: 100%; border-radius: 0px; vertical-align: middle;"> 
 </a>
+
 
 # Assignments
 

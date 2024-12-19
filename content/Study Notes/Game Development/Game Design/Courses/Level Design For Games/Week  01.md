@@ -4,10 +4,9 @@ tags:
   - CGMA
 aliases:
   - Week 1 Notes
-title: CGMA W1
 ---
 
-"... someone who builds spaces for the mechanics to take place in"
+_"A Level Desginer is someone who builds spaces for the mechanics to take place in"_
 
 # What are the responsibilities of a level designer
 - Add collision
@@ -56,6 +55,3 @@ title: CGMA W1
 	- Tone
 	- Dialog Lines
 	- Engine Pipeline
-
-# Assignment
-[Week 1 - Drive Delivery]()
