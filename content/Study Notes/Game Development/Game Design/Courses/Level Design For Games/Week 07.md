@@ -61,7 +61,6 @@ There's many ways that enemies can be placed in a game to players fight. Its com
 - _Waves:_ The player is "trapped" while waves of enemies come to him. A good example of it are the Joker tugs on Batman Arkham Asylum while Batman is inside the arena.
 
 ⭐ Remember to get vertical when possible.
-
 ### Combat Architypes:
 It's important to add variety and surprises within these archetypes to keep the gameplay fresh and exciting for players. They can be combined, modified or expanded upon to suit the specific gameplay mechanics, narrative and artistic vision of the game being designed.
 
