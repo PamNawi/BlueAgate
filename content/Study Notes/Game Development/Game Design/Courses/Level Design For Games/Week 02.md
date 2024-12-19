@@ -78,7 +78,7 @@ Find the scale that works for your game and the world and stay consistent
 - Designer's choice
 - Cohesive LD presentation
 
-_"The level block out should accurately represent the mechanics the best you can"
+_"The level block out should accurately represent the mechanics the best you can"_
 - Don't forget to challenge players
 - Make me pressed buttons
 - Add as much detail as you need to sell your level ideas

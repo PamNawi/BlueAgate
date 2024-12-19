@@ -16,6 +16,7 @@ My journey in programming has been enriched by diverse projects, from predicting
 ![[e73.png]]
 ![[b22.jpg]]
 ![[23CB1AED-07F3-4EBA-BA29-00A089FAB0EA.png]]
+![[woop.gif]] 
 ![[18F09251-6F56-4A40-9778-8350ACA82BD9.png]]
 ![[A3B76B5C-7141-4A17-A9BC-AC00FB380ED7.png]]
 ![[ef600965a2222846ef62cba2f709a0b924b21bb0.png]]
@@ -40,7 +41,7 @@ My journey in programming has been enriched by diverse projects, from predicting
 ![[cooleronline.gif]]
 ![[creature.png]]
 ![[paw_stamp_2_by_aestheticstamps_d9p12z8.png]]
-
+![[ahshit.png]]
 ### Buttons
 ![[roly-saynotoweb3.gif]] 
 ![[e5.gif]]
@@ -49,6 +50,6 @@ My journey in programming has been enriched by diverse projects, from predicting
 
 ### Blinkies
 ![[IMG_9055.gif]]
-
+![[softhearted.gif]]
 
 

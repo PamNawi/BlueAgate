@@ -4,193 +4,85 @@ tags:
   - CGMA
 draft: "true"
 ---
-# Story Mission Pitching
+# Story Missions
+A mission should have a clear objective for the player accomplish. Examples:
+- Reach a specific location in a survival horror game, the player might have to navigate through a haunted mansion to reach a safe room where important story-related documents are located
+- Rescue a character in a platformer game, the player may be required to recue a kidnapped character by navigating through a series of challenging levels, overcoming obstacles and enemies along the way.
+- Defeat a boss in a action-adventure game, the player may need to defend a powerful enemy boss who is blocking access to the next area or holding a crucial piece of info
 
-## Electro Chase Beats  Prision : The Raft
-![[Pasted image 20240823131552.png]]
-![[Pasted image 20240823131610.png]]
-![[Pasted image 20240823135831.png]]
-![[Pasted image 20240823135839.png]]
-![[Pasted image 20240823135943.png]]
-![[Pasted image 20240823140020.png]]
-![[Pasted image 20240823140034.png]]
-![[Pasted image 20240823140110.png]]
-![[Pasted image 20240823140126.png]]
-![[Pasted image 20240823140131.png]]
-![[Pasted image 20240823140138.png]]
-- Setting up the cinematic
-- Less text + pictures
+A  mission should be grounded in the game's narrative providing relevant story elements or advancing the plot. It can be connect to the larger story arc and contribute to the player's understanding of the game world, characters or events. Examples:
+- Gathering intel in a spy-themed game, the player might undertake a mission to infiltrate an enemy base and gather crucial information about a villain's evil plans
+- Defending a stronghold in a fantasy RPG, the player might be assigned the mission to defend crucial stronghold from invading forces. This mission would showcase the player's role in the larger conflict
 
-## Mission : Fisk Tower
-![[Pasted image 20240823140238.png]]
-![[Pasted image 20240823140246.png]]
-![[Pasted image 20240823140313.png]]
-![[Pasted image 20240823140347.png]]
-![[Pasted image 20240823140435.png]]
-![[Pasted image 20240823140458.png]]
-![[Pasted image 20240823140509.png]]
-![[Pasted image 20240823140532.png]]
-![[Pasted image 20240823140543.png]]
-![[Pasted image 20240823140557.png]]
-![[Pasted image 20240823140626.png]]
-![[Pasted image 20240823140654.png]]
-![[Pasted image 20240823140716.png]]
-![[Pasted image 20240823140722.png]]
-![[Pasted image 20240823140741.png]]
-![[Pasted image 20240823140801.png]]
-![[Pasted image 20240823140811.png]]
-![[Pasted image 20240823140826.png]]
-![[Pasted image 20240823140833.png]]
-![[Pasted image 20240823140849.png]]
-![[Pasted image 20240823140908.png]]
-![[Pasted image 20240823140927.png]]
-![[Pasted image 20240823140947.png]]
-![[Pasted image 20240823140958.png]]
-![[Pasted image 20240823141009.png]]
-![[Pasted image 20240823141047.png]]
-![[Pasted image 20240823141106.png]]
-
-## Ratchet & Clank Eternal : Blizar Prime
-
-![[Pasted image 20240823141205.png]]
-![[Pasted image 20240823141230.png]]
-![[Pasted image 20240823141250.png]]
-![[Pasted image 20240823141305.png]]
-![[Pasted image 20240823141319.png]]
-![[Pasted image 20240823141342.png]]
-![[Pasted image 20240823141348.png]]
-![[Pasted image 20240823141416.png]]
-![[Pasted image 20240823141425.png]]
-![[Pasted image 20240823141452.png]]
-![[Pasted image 20240823141504.png]]
-![[Pasted image 20240823141524.png]]
-![[Pasted image 20240823141552.png]]![[Pasted image 20240823141614.png]]
-![[Pasted image 20240823141633.png]]
-![[Pasted image 20240823141643.png]]
+![[Pasted image 20240823192005.png]]
 
 # Beat Breakdown and Tempo
+A mission should support the objective and provide a suitable environment for gameplay. It should guide the player towards the objective and create a sense of progression on the long run. She can also enhance the experience by providing a sense of exploration and discovery by presenting hidden secrets, points of interest or even optional objectives. A mission also can present a gameplay challenge for a player overcome. Example:
+- _Stealth Sequences_ - Gameplay challenges can require the player to remain undetected while infiltrating enemy territory or avoiding security systems. The mission might include guard patrols, security cameras, or sound-based mechanics that force the player to carefully plan their movements, use distractions and take advantages of the environment to stay hidden.
 
-StoryBoard
-![[Pasted image 20240823192005.png]]
+The flow should be very well-paced balancing moments of tension, exploration and action.  The analysis of the player progression and rhythm can be done with charts called Beat Charts. This can help the planning phase on each challenge proposed. Some examples of Beat Charts:
+
 ![[Pasted image 20240823192014.png]]
 
 ![[Pasted image 20240823192031.png]]
 ![[Pasted image 20240823192039.png]]![[Pasted image 20240823192048.png]]
 ![[Pasted image 20240823192117.png]]
+![[Pasted image 20240823192251.png]]
 
-Fisk Tower: ![[Pasted image 20240823192251.png]]
-# Missions
+# Rewards after Mission Complete
+Using the beat charts is possible to plan moments of suspense and tension for the player. An encounter with powerful enemies, have to explore dark  environments or even navigating through areas with limited resources or time constraints can enhance the tension for a player. After that, when the mission is complete it should provide meaningful rewards to the player such as unlocking new abilities, story revelations or access to new areas. It may also have consequences or impact the game's narrative or world state.
 
-- The mission should have a clear overall objective that the player needs to accomplish
-	- Example: Reach a specific location in a survival horror game, the player might have to navigate through a haunted mansion to reach a safe room where important story-related documents are located
-	- Example: Rescue a character in a platformer game, the player may be required to recue a kidnapped character by navigating through a series of challenging levels, overcoming obstacles and enemies along the way.
-	- Example: Defeat a boss in a action-adventure game, the player may need to defend a powerful enemy boss who is blocking access to the next area or holding a crucial piece of info
-
-- The mission should be grounded in the game's narrative providing relevant story elements or advancing the plot. It should connect to the larger story arc and contribute to the player's understanding of the game world, characters or events
-	- Example: Gathering intel in a spy-themed game, the player might undertake a mission to infiltrate an enemy base and gather crucial information about a villain's evil plans
-	- Example: Defending a stronghold in a fantasy RPG, the player might be assigned the mission to defend crucial stronghold from invading forces. This mission would showcase the player's role in the larger conflict
-
-- Support the objective and provide a suitable environment for gameplay. It should guide the player towards the objective and create a sense of progression
-- Exploration and Discovery: This would feature expansive and detailed environments with hidden secrets, points of interest and optional objectives
-- You should present gameplay challenges or obstacles that the player needs to overcome
-	- Example: Stealth Sequences - Gameplay challenges can require the player to remain undetected while infiltrating enemy territory or avoiding security systems. The mission might include guard patrols, security cameras, or sound-based mechanics that force the player to carefully plan their movements, use distractions and take advantages of the environment to stay hidden.
-
-- The mission should have a well-paced flow, balancing moments of tension, exploration and action. It should engage the player's interest and maintain a sense of progression, avoiding excessive repetition or boredom!
--  Tension-Building Moments: The mission can include moments of suspense and tension. This could involve encounters with powerful enemies, exploring dark and atmospheric environments, or navigating through areas with limited resources or time constraints.
-- Completing the mission should provide meaningful rewards to the player such as unlocking new abilities, story revelations or access to new areas. It may also have consequences or impact the game's narrative or world state.
-	- Unique Rewards: The mission can offer a unique and valuable rewards that are specific to the narrative or gameplay context. This could include rare items, exclusive weapons or equipment, or interactions with important non-playable characters that provide unique benefits or opportunities
-	- Access to new areas: Finishing the mission can grant the player access to new areas or locations within the game world. This can open up opportunities for further exploration, side quests, or additional content that expands the player's experience and provides a sense of discovery
-	- Unlocking new abilities: Completing the main line mission can reward the player with new abilities, skills or upgrades, that enhance their gameplay capabilities. These rewards can provide a sense of progression and empower the player to take on new challenges or explore previously inaccessible areas
+⭐ _Unique Rewards:_ The mission can offer a unique and valuable rewards that are specific to the narrative or gameplay context. This could include rare items, exclusive weapons or equipment, or interactions with important non-playable characters that provide unique benefits or opportunities
+⭐ _Access to new areas:_ Finishing the mission can grant the player access to new areas or locations within the game world. This can open up opportunities for further exploration, side quests, or additional content that expands the player's experience and provides a sense of discovery
+⭐ _Unlocking new abilities:_ Completing the main line mission can reward the player with new abilities, skills or upgrades, that enhance their gameplay capabilities. These rewards can provide a sense of progression and empower the player to take on new challenges or explore previously inaccessible areas
 
 # Balancing Spaces
-- If players encounters the same type of gameplay over and over they may start feeling bored or disengaged
-- Try to mix match gameplay elements to combat that! We can also offer optional or alternative approaches to cater to playstyles
-- Be carefully sequencing these gameplay elements ensuring they complement each other, you can create a balanced experience
-- Honestly, just try to give players variety and don't stress too much
-
-Vary intensity and pacing of gameplay elements to maintain player interest. For example, mix moments of high-action combat with slower-paced exploration or puzzle solving sections
-
-It's also essential to leverage the narrative and integrate gameplay elements seamlessly, enhancing the overall cohesion of the mission or quest.
-
-- By alternating between stealth and action sequences, the level designer keeps the gameplay engaging while aligning with the narrative of covert operation
-- It requires a deep understanding of the game's mechanics, the narrative and the player's experience
-
-The goal is to balance gameplay elements in your mission and quests
-
-Create captivating experiences that captivate players and keep then in the game world and its narrative
-
-By examining how these game mix and match elements, we can gain insights into effective design strategies and learn from their success
-
-Create captivating experiences that captivate players and keep them invested in the game world and its narrative
+ If players encounters the same type of gameplay over and over they may start feeling bored or disengaged. Its important to mix match  gameplay elements. We can also offer optional or alternative approaches to cater to playstyles. For this we should be be carefully sequencing these gameplay elements ensuring they complement each other, you can create a balanced experience. By varying the intensity and pacing of gameplay elements help to maintain player interest. For example, mix moments of high-action combat with slower-paced exploration or puzzle solving sections.
+ 
+ ⭐ It's also essential to leverage the narrative and integrate gameplay elements seamlessly, enhancing the overall cohesion of the mission or quest. Is possible to do it by alternating mechanics, its a level designer job to keep the gameplay engaging while align the narrative.
 
 # Dialog
-- As level designers, we often start by adding placeholder dialog to our missions to establish the overall narrative and give a sense of what's happening
-- When designing levels, we need to create spaces that accommodate dialog and allow players to have meaningful conversations or experience narrative moments.
-- The spaces should provide enough room for characters to interact and allow players to comfortably hear the dialog without feeling rushed or interrupted by gameplay elements
-- Be carefully crafting the environment, we enhance the impact and immersion of the dialog for players
-	- Through carefully crafted set pieces, environmental cues and atmospheric details, they enhance the dialog and deepen the player's connection to the game's world and characters
-- Dialog is a collaborative process, and a dedicated story writer may later refine and enhance the lines to ensure they align with the game's overall narrative vision
-	- Try your best to see if you can sneak some lines into the game. Many times writers will keep ones they like!
-	- Collaboration between level designers and writers is crucial when integrating dialog into missions. As we design our levels, we should be open to feedback and interaction from the writing team
-		- Story Departments can help us design better mission by understanding their structure
+Level designers can help the team by adding placeholders dialogs to the missions establishing the narrative and give a sense of what's happening in the game. When building levels, we need to consider the spaces to accommodate dialog and allow players to have meaningful conversations or experience narrative moments. The spaces where the player is traversing should provide enough room for characters to interact and allow players to comfortably hear the dialog without feeling rushed or interrupted by gameplay elements.
 
+⭐Through carefully crafted set pieces, environmental cues and atmospheric details, they enhance the dialog and deepen the player's connection to the game's world and characters.
 
+The creation of dialogs are collaborative process, and a dedicated story writer may later refine and enhance the lines to ensure they align with the game's overall narrative vision but an initial draft can be made by the level designer. As we design our levels, we should be open to feedback and interaction from the writing team.
 # Cutscenes and Cameras
-- Level designers often utilize placeholder cutscenes and cameras during the design process to establish the desired narrative and cinematic moments within their levels
-- These placeholders act as temporary representations of the final cutscenes and camera angles, helping the designers visualize the intended flow and pacing of the gameplay experience
-	- Cameras and cutscenes are great way to organize your gameplay beats
-- Level designers can experiment with different camera positions and movements to create dynamic and engaging scenes
-	- This allows them to establish the desired atmosphere, highlight important events or points of interest and guide the player's focus
-- Using placeholder cutscenes and cameras enables level designers to iterate on their designs, gather feedback and make necessary adjustments
-	- All before handing off the final implementation to the appropriate teams
-- Its a task for the level designer to figure out the impact of the cutscenes on the gameplay and on the stage flow. So early cutscenes can and probably will be implemented by the level designer
+A level designer can create placeholder cutscenes and cameras to establish narrative and cinematic moments. These placeholders should be representations of the final cutscenes and camera angles, so designers can have a better visualization of the flow and pacing.
 
+⭐Cameras and cutscenes are great way to organize your gameplay beats since them can determine some starting and ending of event.
+
+Its possible to experiment with different angles for camera and movements, this allows to define a desired atmosphere, by highlighting important events, POIs or even guiding the player focus.  Its a task for the level designer to figure out the impact of the cutscenes on the gameplay and on the stage flow. So early cutscenes can and probably will be implemented by the level designer
 
 # Enemies and Combat Planning
-- Combat Elements:
-	- Spawn Closets:
-	- Layouts:
-	- Waves:
+There's many ways that enemies can be placed in a game to players fight. Its common to have the following:
+- _Spawn Closets:_ Some kind of enclosure,  where the enemies can be spawn outside the player view. Think of an elevator closing, and then the enemies spawn, the elevator open open revealing the enemies and the enemies engage it with the player.
+- _Layouts:_ The enemies are placed direct onto the local
+- _Waves:_ The player is "trapped" while waves of enemies come to him. A good example of it are the Joker tugs on Batman Arkham Asylum while Batman is inside the arena.
 
-Contextualize:
-- Make sense where the enemies spawn
+⭐ Remember to get vertical when possible.
 
-!Get Vertical
+### Combat Architypes:
+It's important to add variety and surprises within these archetypes to keep the gameplay fresh and exciting for players. They can be combined, modified or expanded upon to suit the specific gameplay mechanics, narrative and artistic vision of the game being designed.
 
-Combat Architypes:
-It's important to add variety and surprises within these archetypes to keep the gameplay fresh and exciting for players
-- They can be combined, modified or expanded upon to suit the specific gameplay mechanics, narrative and artistic vision of the game being designed
+Templates or structures for designing engaging combat serve as starting points for designing combat scenarios and can be adapted and combined to create more complex and engaging encounters. - They provide a framework for level designers to structure the flow, pacing and challenges of combat sequences
 
-Templates or structures for designing engaging combat. Serve as starting points for designing combat scenarios and can be adapted and combined to create more complex and engaging encounters
-- They provide a framework for level designers to structure the flow, pacing and challenges of combat sequences
-
-Ambush Architype:
-- Enemies surprising the player from attacking from hiding position
+- _Ambush Architype:_ Enemies surprising the player from attacking from hiding position
 	- Tension
 	- Quick Reaction
 	- Sudden Threat
 
-Defense Architype:
-- Stop and defend a stop from waves of NPCs
+- _Defense Architype:_ Stop and defend a stop from waves of NPCs
 
-High and Lo Advantage:
-- Explore the terrain to give the upper hand to the player or the enemies
-- Given a strategic advantage
+- _High and Lo Advantage:_ Explore the terrain to give the upper hand to the player or the enemies given it a strategic advantage
 
-Stealth Architype:
-- Allowing the players to stealth to eliminate enemies
+- _Stealth Architype:_ Allowing the players to stealth to eliminate enemies.
 
-Boss Battle:
-- Challenging and Skill checking if the player can use what they learn to defeat the boss
-- Exploiting the bosses weakness
+- _Boss Battle:_ Challenging and skill checking if the player can use what they learn to defeat the boss by exploiting the bosses weakness
 
-Escort:
-- Protect and NPC traverse a dangerous area
+- _Escort:_  Protect and NPC traverse a dangerous area
 
-Arena Battle:
-
-Multi-Stage:
-- The battle field change during the battle as the boss IA
+- _Multi-Stage:_ The battle field change during the battle as the boss IA
 
 # Tutorials
 Tutorials in games are designed to introduce players to game's mechanics, controls and core concepts. They provide guidance and instructions to help players understand how to play the game and navigate its features effectively
@@ -219,7 +111,7 @@ Level designers can introduce tutorials elements as part of gameplay itself. For
 
 # Valves and Air locks
 
-## Valves:
+### Valves:
 A design technique that restricts player movement or progress in a certain direction, typically to create a linear narrative experience
 - Valves help level designers shape the player's journey, maintain narrative coherence, guide gameplay progression, and enhance the overall game experience by providing structure, direction and moments of tension and reward.
 
@@ -235,7 +127,7 @@ The player may encounter locked doors or barriers that can only be opened by act
 
 Valves can be incorporated into time-based challenges, where the player needs to reach a specific location before the valve closes. This creates a sense of urgency and tests the player's speed and agility.
 
-## Air Locks
+### Air Locks
 Transitional spaces or areas where the game loads the next section while the player is still able to play, effectively hiding the loading process
 
 This helps create a seamless transition between different areas or levels without interrupting the player's experience with visible loading screens or significant pauses

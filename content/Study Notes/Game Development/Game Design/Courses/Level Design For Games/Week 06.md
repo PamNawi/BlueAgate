@@ -2,41 +2,24 @@
 tags:
   - LevelDesign
   - CGMA
-draft: "true"
 ---
-# Pathing and Transition Spaces
-Encourage player exploration by providing multiple paths and routes for players to choose from.
-You can also design the level to support discovering hidden areas, rewards or secrets
+# Pathing
+The player's path should encourage exploration and if possible provide multiple paths and routes for players choose.  Its important to find a balance between linear progression and non-linear exploration to cater to different player preferences, providing a main critical path for players who prefer a more direct experience while supporting discovery of hidden areas, rewards and secrets. This way we can keep it diverse and interesting avoiding boredom.
 
-Use visual cues, landmarks, or environmental elements to guide players and help them navigate through the open space
+⭐ Use different types of paths, such narrow alleys, wide open spaces, verticality, or hidden shortcuts, to add variety and promote exploration
 
-Use level blockout, lighting or color contrast to draw attention to important areas or points of interest
+Keep in mind the usage of visual cues, landmarks or even environmental elements to guide the player. The usage of the block out combined with lighting and color contrast also draw attention to important areas or POIs.
 
-Find a balance between linear progression and non-linear exploration to cater to different player preferences
+⭐ Litter the paths with environmental storytelling elements that provide backstory, or hints about the world and its NPC's
 
-Provide a main critical path for players who prefer a more direct experience, while also offering optional side paths for those who enjoy exploration
+# Transition Spaces
+A transition spaces help a connection between areas by providing a flow between the areas. To ensure the seamless transition is necessary to keep the consistency  with the visual style, lighting, sound design.  As always the usage of visual cues, landmarks, or architectural elements that bridge the gap between areas to help player orientation and understanding where the player is on the level. Whenever you feel like you've entered or exited an area, think about what show players that.
 
-Create diverse and interesting paths to avoid boredom and keep things fresh
-
-Use different types of paths, such narrow alleys, wide open spaces, verticality, or hidden shortcuts, to add variety and promote exploration
-
-Litter the paths with environmental storytelling elements that provide backstory, or hints about the world and its NPC's
-
-Transition spaces connect different areas or level spaces, providing a smooth flow between them.
-Ensure a seamless transition by maintaining consistency in visual style, lighting, sound design between connected spaces
-
-Use visual cues, landmarks, or architectural elements that bridge the gap between areas to help player orientation and understanding
-
-Maintain your theme by incorporating design elements or motifs that carry over from one space to another
-
-Whenever you feel like you've entered or exited an area, think about what show players that
+⭐ If possible create good introductions for each area for the player using sightlines.
 
 # Sightlines
-Lines of sight within a level that allow players to see and perceive different elements of the environment
+Lines of sight within a level that allow players to see and perceive different elements of the environment, helping them to understand their position and navigating through the level. Combine sightlines with composition by adding:
 
-Help players understand their position and navigate through the level
-
-Combine sightlines with composition by adding:
 - Rule of thirds
 - Golden Ratio
 - Balance
@@ -45,34 +28,24 @@ Combine sightlines with composition by adding:
 - Proportions
 - Scale
 
-You can use guiding lights on dark environments 
+⭐ You can use guiding lights on dark environments :
 ![[Pasted image 20240816183850.png]]
 
 # NPC's and Narrative Design
-NPC's should have clear goals and roles:
+Keep in mind that every NPC introduced in a game should have a clear goal and role:
  - Quest Giver
  - Townsperson
  - Enemy
  - Ally
  - Merchants
 
-Placement:
-- Busy
-- Abandoned
-- Interior
-- Exteriors
-
-Interaction:
+NPCs can be key drivers of quests and storylines within the game. By interacting with NPCs, player can receive quests, progress through story arcs and uncover important plot points. The interaction on general with an NPC can be the following:
 - VO lines
 - Tutorial
 - In-Game text
 - Animations
-
-Quests and Storylines:
-NPCs can be key drivers of quests and storylines within the game. By interacting with NPCs, player can receive quests, progress through story arcs and uncover important plot points
-
 # Purposeful Gameplay Spaces
- An space should have:
+Every time that an space is propose is important to keep in mind that he should have some requirements:
  - Clear objectives
  - Meaningful Interactions
  - Player Agency
@@ -80,20 +53,8 @@ NPCs can be key drivers of quests and storylines within the game. By interacting
  - Seamless Flow
  - Replayability and Variety
 
-
-# Boundaries and Edges
-Strategically placing objects, structures or environmental features to guide and constrain player movement
-
-Purpose + Function:
-Restrict player movement
-Make sure to plan ahead
-
-Consider the context of the game world and design barriers that make sense within that context
-
-Immersion
-Believability
-Communcation
-Gameplay Impact
+# Limited Space
+The play space should be limited by Strategically placing objects, structures or environmental features to guide and constrain player movement. Consider the context of the game world and design barriers that make sense within that context this will enhance the immersion, believability, communication and gameplay Impact.
 
 # Assignment
-![[Week 06 - Assignment]]]
+![[Week 06 - Assignment]]

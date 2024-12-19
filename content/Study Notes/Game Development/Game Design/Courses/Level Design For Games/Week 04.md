@@ -90,7 +90,7 @@ Examples of things we re-use:
 _Consistency:_ Using same mechanics throughout the game enhances the player understanding
 _Efficiency:_ Reusing existing mechanics saves development time and resources
 _Depth: Reusable mechanics can be combined, layered or even modified to create more complex and engaging gameplay experiences
-_Mastery: Repeated exposure to mechanics, allows players to learn and improve their skills, providing a sense of progression
+Mastery: Repeated exposure to mechanics, allows players to learn and improve their skills, providing a sense of progression
 
 ⭐ Check your difficult curve, pacing and progression of gameplay when implementing reusable mechanics
 ⭐You need balance and variety, making sure that the mechanics are used in a way that keeps the gameplay fresh and interesting

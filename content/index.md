@@ -5,6 +5,8 @@ title: Blue Agate Home
 
 This is a digital garden created and maintained by Pâmela de Assis Beltrani, on this corner on internet I post everything that I'm creating and studying. The notes shared here are my personal summaries and interpretations of the material covered in their respective courses taught by the instructors. These notes are intended to supplement and not replace the course materials provided by the instructor. Any errors or omissions are my own. For comprehensive understanding, please refer to the official course resources and materials.
 
+![[wrong.jpg]]
+
 I do create and study game development both as a programmer and a level designer, you can check my [[Game Development Projects List]] and my [[Small Projects List]] notes to have a look on it. 
 
 I read a little about why I should be studying in public and since I love to learn everyday I'm bringing my notes under the folder Blue Agate, which was the original source Vault of it.

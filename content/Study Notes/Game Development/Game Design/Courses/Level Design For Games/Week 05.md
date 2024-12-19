@@ -4,17 +4,15 @@ tags:
   - CGMA
 ---
 # Planning Phase
-A documentation to help the future phase
-- Description of the place and the major plot
+During the planning phase is useful to create a documentation to help the future phases. This document should have:
+- Description of the place and the major plot that occurs there
 - Landmarks : POIs
-- NPCs (who is here and doing what?)
+- NPCs that the player can interact with. (who is here and doing what?)
 - References images for the POIs and environment
-- 2-D Map
-
-- Districts:
-	- Can create distinct areas within the level. Have factors that can differentiate these districts, such as architectural styles, environmental features or gameplay mechanics
+- 2-D Map (Possible a topdown view or a side view)
 
 # World Building
+Some aspects are important to consider when building a world.
 ### Theme and Setting: 
 Establish a cohesive theme and setting for the level:
 - Visual elements
@@ -36,9 +34,9 @@ Finding the right balance of detail within your world building. Certain areas or
 Sound design contributes to the overall atmosphere and immersion. Ambient sounds, music and sound effects can complement the visual elements and create a more immersive experience for the players.
 
 # Districts
-Divide the big area in smaller and distinct pieces
-- Add the sense of variety
-- Use visual language to differentiate then
+Can create distinct areas within the level. Have factors that can differentiate these districts, such as architectural styles, environmental features or gameplay mechanics:
+⭐ Add the sense of variety
+⭐Use visual language to differentiate then
 # Landmarks, POIs, Focal Points
 _Landmark:_ Structures that help the player to navigate around the level
 _POI:_ Area of location to get the player attention
@@ -46,21 +44,21 @@ _Focal points:_ Areas or elements that intentionally designed to grab the player
 
 ⭐You want to landmarks, POIs and focal points to be very distinctive
 
-
 # Start Big, then go smaller
+When creating big areas start by planning around the Player Path and from it you can predict some sightlines. Keep some questions in mind when planning each one:
 - Player Path
-	- Are there places to go?
-	- Does it make sense to move from one area to the next?
-	- Are the larger shapes in sight when you hope?
+	❓Are there places to go?
+	❓ Does it make sense to move from one area to the next?
+	❓Are the larger shapes in sight when you hope?
+	
 - Basic Sightlines
-	- Set up your composition
-	- Create opportunities for awesome views and routes
-	- Pay attention to your shapes if they block the view
-- Negative and Positive Space
-- Large and Small Structures
-- Shape Placement 
-- Possible POI
+	❓ How the composition can be explored from some sightline?
+	❓How can be created opportunities for awesome views and routes?
+	❓ What are the shapes? They block the view in any form?
+	❓ How to explore the negative/positive space?
+	❓ What are the Large and Small Structures? What are the possible POIs on it?
 
-Once you have a rough layout, think about what block-out piece would help your level most. What would be repeated? 
+Once you have a rough layout, think about what block-out piece would help your level most. 
+	❓ What would be repeated? Is possible to segment the level and create some kind of spritesheet or modules to start to build the environment?
 # Assignment
 ![[Week 05 - Assignment]]

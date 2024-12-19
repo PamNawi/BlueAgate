@@ -6,6 +6,8 @@ tags:
   - "#Question"
   - "#Art"
 ---
+
+![[graphic.jpg]]
 # What is appealing and what is boring?
 - Humans are a pattern addicts
 - Creating new dependency for patterns in a unexpected why create interest for humans, but we need to keep in a way that human brains can still found some pattern to be looking for
