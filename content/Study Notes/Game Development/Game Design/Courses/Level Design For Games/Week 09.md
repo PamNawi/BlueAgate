@@ -2,7 +2,7 @@
 tags:
   - LevelDesign
   - CGMA
-draft: "true"
+draft: "false"
 ---
 During this week we reviewed some of the concepts presented on past weeks and what are the major goals for a level designer.
 

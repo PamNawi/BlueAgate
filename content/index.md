@@ -1,8 +1,6 @@
 ---
 title: Blue Agate Home
 ---
-## Welcome to Blue Agate
-
 This is a digital garden created and maintained by Pâmela de Assis Beltrani, on this corner on internet I post everything that I'm creating and studying. The notes shared here are my personal summaries and interpretations of the material covered in their respective courses taught by the instructors. These notes are intended to supplement and not replace the course materials provided by the instructor. Any errors or omissions are my own. For comprehensive understanding, please refer to the official course resources and materials.
 
 ![[wrong.jpg]]
