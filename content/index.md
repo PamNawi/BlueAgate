@@ -13,6 +13,11 @@ You can easily navigate by clicking on the internal links within each page, by u
 # How did I make this?
 I choose to create a digital garden using  [Obsidian](https://obsidian.md) with [Quartz 4.0](https://quartz.jzhao.xyz) since is easy to maintain and I can have control over both the content and the structure presented. Since I use a couple of plugins on Obsidian that will not translate well for Quartz, not all notes will be perfect to read directly from the browser. You can always always download my Vault on [Github](https://github.com/PamNawi/YellowQuartz) which should have everything ready to use on Obsidian.
 
+# WebRings
+This garden is connected with other sites by participating the gamedev webring. Take a look at other sites from the ring if you like the theme!
+
+<a href="https://www.rainbowcemetery.com/devring/list.php?id=0"><img src="https://www.rainbowcemetery.com/devring/88x31.png"></a>
+
 𝔼𝕟𝕛𝕠𝕪 𝕪𝕠𝕦𝕣 𝕖𝕩𝕡𝕝𝕠𝕣𝕒𝕥𝕚𝕠𝕟
 
 

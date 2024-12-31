@@ -8,7 +8,7 @@ title: Shooters and Game Engines in Level Design
 aliases:
   - Shooters and Game Engines in Level Design
 ---
-# Status: Doing
+# Status: Abandoned
 
 This is a course that I'm taking during April 2024 titled 
 "Shooters and Game Engines in Level Design". This course is focused on level design for shooters, since I don't play shooters on general I expect to learn a lot from it.
