@@ -23,7 +23,6 @@ This garden is connected with other sites by participating the some webrings. Pl
 </map>  
 <img usemap="#noaimini3" src="https://baccyflap.com/noai/miniwidget3.gif" alt="a black background with text in a white-to-colour vertical gradient, each letter a colour of the rainbow; it reads NO AI / WEBRING. on either side are two arrows pointing left and right">
 
-
 𝔼𝕟𝕛𝕠𝕪 𝕪𝕠𝕦𝕣 𝕖𝕩𝕡𝕝𝕠𝕣𝕒𝕥𝕚𝕠𝕟
 
 
