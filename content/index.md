@@ -15,7 +15,8 @@ I choose to create a digital garden using  [Obsidian](https://obsidian.md) with 
 # WebRings
 This garden is connected with other sites by participating the some webrings. Please take a look at other sites from the rings if you like the themes!
 
-<a href="https://www.rainbowcemetery.com/devring/list.php?id=0"><img src="https://www.rainbowcemetery.com/devring/88x31.png"></a> <map name="noaimini3">  
+<a href="https://www.rainbowcemetery.com/devring/list.php?id=0"><img src="https://www.rainbowcemetery.com/devring/88x31.png"></a> 
+<map name="noaimini3">  
 <area href="https://baccyflap.com/noai" shape="rect" coords="20,2,67,13" target="_blank" alt="no ai webring" title="no ai webring">  
 <area href="https://baccyflap.com/noai/?prv&s=**bae**" target="_top" shape="rect" coords="2,4,14,12" alt="previous" title="previous">  
 <area href="https://baccyflap.com/noai/?rnd" target="_top" shape="rect" coords="42,17,53,28" alt="random" title="random">  

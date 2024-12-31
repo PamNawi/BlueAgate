@@ -10,7 +10,6 @@ My journey in programming has been enriched by diverse projects, from predicting
 ![[utenanthy.gif]]
 ![[b39.png]]
 ![[d19.png]]
-
 ![[d20.png]]
 ![[d82.gif]]
 ![[e73.png]]
@@ -39,17 +38,20 @@ My journey in programming has been enriched by diverse projects, from predicting
 ![[Ittichy3.png]]
 ![[rainbow2.png]]
 ![[cooleronline.gif]]
-![[creature.png]]
 ![[paw_stamp_2_by_aestheticstamps_d9p12z8.png]]
+![[siouxsie.gif]]
 ![[ahshit.png]]
+![[creature.png]]
+
 ### Buttons
+![[mspaint.jpg]]
 ![[roly-saynotoweb3.gif]] 
 ![[e5.gif]]
 <a href="https://cloudcover.neocities.org" target="_blank"> <img src="https://cloudcover.neocities.org/badges/mine/indiegamesbadge.png"  title="Get the project on Google Drive"> 
 </a>
-
+![[xfiles.jpg]]
 ### Blinkies
 ![[IMG_9055.gif]]
 ![[softhearted.gif]]
-
+![[spellcasting.gif]]
 
