@@ -4,7 +4,6 @@ tags:
   - CGMA
 aliases:
   - Assignments
-draft: CGMA List of Assigments
 ---
 Each week Shane asked us to make an assignment with a very well defined theme and objective related to explore. I combined every assignment here so they are easy to navigate. For each week we should also create a reference board with PureRef.
 
