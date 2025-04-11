@@ -1,7 +1,8 @@
 ---
-title: Dreamwalker Introduction
+title: Oneira Introduction
 aliases:
   - Dreamwalker
+  - Oneira
 ---
 
 ![[Pasted image 20241231154140.png]]
@@ -12,7 +13,7 @@ aliases:
 </div>
 
 
-I started to work late 2024 on Dreamwalker which is a 3D puzzle platform game. I was invited to work as a level designer on this team, but I got on difficult spot to help the team since my computer broke so I started doing some blockage using some fake lego.
+I started to work late 2024 on [Oneira](https://dreammatterlabs.com/ "https://dreammatterlabs.com/") which is a 3D puzzle platform game. I was invited to work as a level designer on this team, but I got on difficult spot to help the team since my computer broke so I started doing some blockage using some fake lego. You can check our developing on our [discord server](https://discord.gg/XAYvJhkkqE)
 
 # Stage 1: Mushroom Forest
 The first stage on the game is called the Mushroom Forest.
@@ -37,6 +38,6 @@ Its the first landmark that the player visit inside the Mushroom Forest. I did s
 </section>
 </div>
 
-This puzzle was split into sections inside the temple of Father. The actual version of Temple of Father can be seen on this video
+This puzzle was split into sections inside the temple of Father. The actual version of Temple of Father can be seen on this video. The art pass was already made during this video!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w_Q3hYyg_9Q?si=TrO5chV6lDwkW2rh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

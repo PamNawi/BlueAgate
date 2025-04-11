@@ -15,14 +15,13 @@ I choose to create a digital garden using  [Obsidian](https://obsidian.md) with 
 # WebRings
 This garden is connected with other sites by participating the some webrings. Please take a look at other sites from the rings if you like the themes!
 
-<a href="https://www.rainbowcemetery.com/devring/list.php?id=0"><img src="https://www.rainbowcemetery.com/devring/88x31.png"></a> 
-<map name="noaimini3">  
-<area href="https://baccyflap.com/noai" shape="rect" coords="20,2,67,13" target="_blank" alt="no ai webring" title="no ai webring">  
-<area href="https://baccyflap.com/noai/?prv&s=**bae**" target="_top" shape="rect" coords="2,4,14,12" alt="previous" title="previous">  
-<area href="https://baccyflap.com/noai/?rnd" target="_top" shape="rect" coords="42,17,53,28" alt="random" title="random">  
-<area href="https://baccyflap.com/noai/?nxt&s=**bae**" target="_top" shape="rect" coords="73,4,85,12" alt="next" title="next">  
+<a href="https://www.rainbowcemetery.com/devring/list.php?id=0"><img src="https://www.rainbowcemetery.com/devring/88x31.png"></a> <map name="noaimini8">  
+<area href="https://baccyflap.com/noai" shape="rect" coords="20,0,67,30" target="_blank" alt="no ai webring" title="no ai webring">  
+<area href="https://baccyflap.com/noai/?prv&s=**bae**" target="_top" shape="rect" coords="0,7,18,23" alt="previous" title="previous">  
+<area href="https://baccyflap.com/noai/?nxt&s=**bae**" target="_top" shape="rect" coords="69,7,87,23" alt="next" title="next">  
 </map>  
-<img usemap="#noaimini3" src="https://baccyflap.com/noai/miniwidget3.gif" alt="a black background with text in a white-to-colour vertical gradient, each letter a colour of the rainbow; it reads NO AI / WEBRING. on either side are two arrows pointing left and right">
+<img usemap="#noaimini8" src="https://baccyflap.com/noai/miniwidget8.gif" alt="a rectangle with an animated, shifting rainbow pattern with the words NO AI / WEBRING on it in big fat letters. to either side of the rectangle are two arrows pointing left and right with animated, concentrically expanding rainbow patterns in them">
+
 
 𝔼𝕟𝕛𝕠𝕪 𝕪𝕠𝕦𝕣 𝕖𝕩𝕡𝕝𝕠𝕣𝕒𝕥𝕚𝕠𝕟
 
