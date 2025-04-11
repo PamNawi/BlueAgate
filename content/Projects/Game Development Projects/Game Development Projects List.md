@@ -17,7 +17,6 @@ This is a list of projects in which I have participated as a game developer:
 </div>
 
 # [[_Oneira|Oneira]] [2024 - Present]
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w_Q3hYyg_9Q?si=TrO5chV6lDwkW2rh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div style="display: flex;"> 
