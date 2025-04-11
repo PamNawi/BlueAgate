@@ -17,8 +17,8 @@ This garden is connected with other sites by participating the some webrings. Pl
 
 <a href="https://www.rainbowcemetery.com/devring/list.php?id=0"><img src="https://www.rainbowcemetery.com/devring/88x31.png"></a> <map name="noaimini8">  
 <area href="https://baccyflap.com/noai" shape="rect" coords="20,0,67,30" target="_blank" alt="no ai webring" title="no ai webring">  
-<area href="https://baccyflap.com/noai/?prv&s=**bae**" target="_top" shape="rect" coords="0,7,18,23" alt="previous" title="previous">  
-<area href="https://baccyflap.com/noai/?nxt&s=**bae**" target="_top" shape="rect" coords="69,7,87,23" alt="next" title="next">  
+<area href="https://baccyflap.com/noai/?prv&s=bae" target="_top" shape="rect" coords="0,7,18,23" alt="previous" title="previous">  
+<area href="https://baccyflap.com/noai/?nxt&s=bae" target="_top" shape="rect" coords="69,7,87,23" alt="next" title="next">  
 </map>
 <map name="noaimini8">  
 <area href="https://baccyflap.com/noai" shape="rect" coords="20,0,67,30" target="_blank" alt="no ai webring" title="no ai webring">  
