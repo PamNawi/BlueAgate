@@ -19,9 +19,13 @@ This garden is connected with other sites by participating the some webrings. Pl
 <area href="https://baccyflap.com/noai" shape="rect" coords="20,0,67,30" target="_blank" alt="no ai webring" title="no ai webring">  
 <area href="https://baccyflap.com/noai/?prv&s=**bae**" target="_top" shape="rect" coords="0,7,18,23" alt="previous" title="previous">  
 <area href="https://baccyflap.com/noai/?nxt&s=**bae**" target="_top" shape="rect" coords="69,7,87,23" alt="next" title="next">  
-</map>  
+</map>
+<map name="noaimini8">  
+<area href="https://baccyflap.com/noai" shape="rect" coords="20,0,67,30" target="_blank" alt="no ai webring" title="no ai webring">  
+<area href="https://baccyflap.com/noai/?prv&s=bae" target="_top" shape="rect" coords="0,7,18,23" alt="previous" title="previous">  
+<area href="https://baccyflap.com/noai/?nxt&s=bae" target="_top" shape="rect" coords="69,7,87,23" alt="next" title="next">  
+</map>
 <img usemap="#noaimini8" src="https://baccyflap.com/noai/miniwidget8.gif" alt="a rectangle with an animated, shifting rainbow pattern with the words NO AI / WEBRING on it in big fat letters. to either side of the rectangle are two arrows pointing left and right with animated, concentrically expanding rainbow patterns in them">
-
 
 𝔼𝕟𝕛𝕠𝕪 𝕪𝕠𝕦𝕣 𝕖𝕩𝕡𝕝𝕠𝕣𝕒𝕥𝕚𝕠𝕟
 
