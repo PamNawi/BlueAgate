@@ -1,8 +1,13 @@
 Hello! I'm Pâmela de Assis Beltrani, a passionate programmer and game development enthusiast based in São Francisco do Sul, Santa Catarina. With a strong academic background, including a master's degree in Informatics from UFPR and specialization in Digital Game Development from PUC-PR, I've honed my skills in languages such as Python, C++, and C#, along with proficiency in Unity.
 
 My journey in programming has been enriched by diverse projects, from predicting movement in distributed games to crafting maps for Android applications. As a former professor at Universidade Positivo, I've had the pleasure of teaching subjects like Computer Graphics and [[_Classroom notes for Game Development on AI | Artificial Intelligence]], sharing my knowledge with eager minds. The content generated during this period is in Portuguese and I will probably not translate it into English (sorry, to lazy for that). 
-## Personality & Interests
+### Site Recomendations
+<a href="http://ambientartstyles.com/">
+  <img src="https://ambientartstyles.com/content/images/2025/01/AmbientArtstylesAudioGungFu_ButtonGif_1.gif" width="88" height="31" alt="AmbientArtstyles">
+</a>
 
+
+## Personality & Interests
 ### Stamps
 ![[stamp by sinnamonroll.gif]]
 ![[old web.png]]
@@ -42,16 +47,29 @@ My journey in programming has been enriched by diverse projects, from predicting
 ![[siouxsie.gif]]
 ![[ahshit.png]]
 ![[creature.png]]
+![[Pasted image 20250624211945.png]]
+![[Pasted image 20250624212134.png]]
+![[Pasted image 20250624212201.png]]
+![[Pasted image 20250624212458.png]]
+![[Pasted image 20250624212525.png]]
+![[Pasted image 20250624212623.png]]
+![[Pasted image 20250624212615.png]]
+![[Pasted image 20250624212639.png]]
+![[Pasted image 20250624213437.png]]
+![[Pasted image 20250624213957.png]]
 
 ### Buttons
 ![[mspaint.jpg]]
 ![[roly-saynotoweb3.gif]] 
 ![[e5.gif]]
-<a href="https://cloudcover.neocities.org" target="_blank"> <img src="https://cloudcover.neocities.org/badges/mine/indiegamesbadge.png"  title="Get the project on Google Drive"> 
-</a>
+![[Pasted image 20250624213830.png]]
+![[Pasted image 20250624213911.png]]
 ![[xfiles.jpg]]
+
 ### Blinkies
 ![[IMG_9055.gif]]
 ![[softhearted.gif]]
 ![[spellcasting.gif]]
-
+![[Pasted image 20250624212317.png]]
+![[Pasted image 20250624213155.png]]
+![[Pasted image 20250624213750.png]]
