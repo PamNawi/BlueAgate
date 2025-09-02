@@ -56,8 +56,7 @@ My journey in programming has been enriched by diverse projects, from predicting
 ![[Pasted image 20250624212615.png]]
 ![[Pasted image 20250624212639.png]]
 ![[Pasted image 20250624213437.png]]
-![[Pasted image 20250624213957.png]]
-
+![[Pasted image 20250902195155.png]]
 ### Buttons
 ![[mspaint.jpg]]
 ![[roly-saynotoweb3.gif]] 
