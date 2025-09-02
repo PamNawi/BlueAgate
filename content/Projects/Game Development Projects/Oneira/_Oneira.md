@@ -29,6 +29,9 @@ I started to work late 2024 on [Oneira](https://dreammatterlabs.com/ "https://dr
 </div>
 
 # Stage 1: Mushroom Forest
+
+<iframe src="https://shroom.ink/guard.html/?site=Mushroom Forest&shroom=2" height="250px" width="200px" scrolling="no" frameborder="0"></iframe>
+
 The first stage on the game is called the Mushroom Forest and is centered around a dream made by a man called Edmund a 30-something years old. The description provided by the narrative team around the mushroom forest is:
 
 _"The Forest is one of the newer additions to AR's dream roster. Sporting large mushrooms, strange plants and creatures, and complex architecture built by its inhabitants, this world is aimed at clients looking for a more calm, meditative experience in and around nature. At its core stands the village, a meeting of two peoples circling a large tower. However, peace was broken once the two factions of inhabitants - one aligned with the Temple of the Mother, and one with the Temple of the Father - began feuding. The Host was quickly pulled offline and isolated to avoid harming clients, and the Dreamwalker has been sent in to deal with the matter."_
