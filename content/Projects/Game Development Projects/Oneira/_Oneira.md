@@ -87,6 +87,7 @@ There's a lot of reasons on why we are remaking it completely, but I will try to
 When our team of programmers got on vacation, well...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dE7DCF_s7HQ?si=qCMHvKO32sloqm9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### How it is being made this rework?
 We have a couple of fronts while re-doing this level from the ground. We have the level design front that I'm conducting and we have the art team taking decisions on the art, this is being conduct by Bella.
 

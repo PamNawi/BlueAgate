@@ -9,6 +9,8 @@ This is a course that I'm taking during August 2025 titled
 "Design de Concept Art and World Building". This course focus onto visual design to create immersive environments and characters.
 # What is Architecture?
 _"Its the result of a need of a function transformed into structure"..._
+
+_"The ideal building has three elements; its is sturdy, useful and beautiful"_
 ##  Form follows Function:
 The way something looks is dictated by the function it has.
 - The form is subjective
