@@ -73,4 +73,4 @@ Since we are coming from a japanese bath house I took some time to study how the
 
 ![[ScreenShot00026.png]]
 
-Did you noticed that the art team is already testing and substituting some of the mushrooms? The smaller and yellow ones were made by me just to test the composition, while the bigger purple ones are already finalized.
+Did you noticed that the art team is already testing and substituting some of the mushrooms? The smaller and yellow ones were made by me just to test the composition, while the bigger purple ones are already finalized. I will be updating this page with some frequency while I built this area.
