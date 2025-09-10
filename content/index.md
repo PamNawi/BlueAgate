@@ -35,6 +35,20 @@ This garden is connected with other sites by participating in some webrings. Ple
   </map>
 </span>
 
+<!-- Magic Ring -->
+<div id='magicring'>
+<script type="text/javascript" src="https://magicring.neocities.org/onionring-variables.js"></script>
+<script type="text/javascript" src="https://magicring.neocities.org/onionring-widget.js"></script>
+</div>
+<div id='magicring'>
+<script type="text/javascript" src="https://magicring.neocities.org/onionring-variables.js"></script>
+<script type="text/javascript" src="https://magicring.neocities.org/onionring-widget.js"></script>
+</div>
+<div id='magicring'>
+<script type="text/javascript" src="https://magicring.neocities.org/onionring-variables.js"></script>
+<script type="text/javascript" src="https://magicring.neocities.org/onionring-widget.js"></script>
+</div>
+
 𝔼𝕟𝕛𝕠𝕪 𝕪𝕠𝕦𝕣 𝕖𝕩𝕡𝕝𝕠𝕣𝕒𝕥𝕚𝕠𝕟
 
 
