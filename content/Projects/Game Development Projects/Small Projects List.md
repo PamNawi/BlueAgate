@@ -6,6 +6,7 @@ This is a list of projects in which I have participated as a game developer:
 ## [Inverted Throne](https://56jando78.itch.io/the-inverted-throne)
 I participated on the Platformer Jam #1 developing the level design for the inverted Throne. It was a pretty chill experience of development.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DSPMuQx7sbo?si=nMgd_l2ZsdYqpd6D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # - 2024 -
 ## [[Study Notes/Game Development/Game Design/Courses/Level Design For Games/_Introduction|CGMA Level Design Course]]
 
