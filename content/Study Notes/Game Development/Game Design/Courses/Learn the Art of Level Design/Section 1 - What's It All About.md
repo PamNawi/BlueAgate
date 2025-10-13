@@ -79,7 +79,7 @@ Breaking down the level into components, helps you organize your thoughts and al
 Things a level doesn't need:
 - No landmarks or visual language ( they will get loss)
 - Symmetry - Its terrific (Maybe a good way of create unsettling ambiences?)
-- Too many pats and dead ends (prune your paths, the challenge should be on mechanics)
+- Too many paths and dead ends (prune your paths, the challenge should be on mechanics)
 - Déjà vu / Repetition - Add some variety on your environment
 - Not meeting expectations
 - Lack of any pace - too slow or even too quick
