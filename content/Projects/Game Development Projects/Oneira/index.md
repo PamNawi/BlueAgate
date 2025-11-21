@@ -1,5 +1,5 @@
 ---
-title: Oneira Introduction
+title: Oneira
 aliases:
   - Dreamwalker
   - Oneira
@@ -7,6 +7,7 @@ tags:
   - Oneira
   - Unreal
   - LevelDesign
+private: "true"
 ---
 
 ![[Pasted image 20250624193931.png]]
@@ -96,7 +97,7 @@ We have a couple of fronts while re-doing this level from the ground. We have th
 
 What were the steps I made during this level design rework? First, I panicked. Kidding. Not so much. I took a deep breath and got all the information that was scattered around multiples platforms and tried to unify on the same one creating a timeline on Miro. This timeline is important to separate the narrative on chunks, helping me to visualize what are the areas the need to be created a good example is the village that has three major areas, a main quest and some side quests. Each post it is a encounter, the red ones are the obligatory ones, while the yellow ones are the optional ones. All of these are defined by narrative.
 
-![[Patchwork.jpg]]
+![[Patchwork 1.jpg]]
 Bellow the narrative section, a simple beat analysis is made, just so we can more or less know what is being expected for the area it self. This beat analysis is being made as we progress inside the areas on the stage.
 
 After this big timeline of events and segmentation of the stage was made. I called the narrative department to present the timeline and we started to talk about some Points of interest and did some... AMAZING sketches that clearly can be understood by anyone out of context. Notice the map inside the box present on this first sketch
@@ -133,4 +134,13 @@ At the same time the art team already started to talk with the level design team
 
 ![[Pasted image 20250826192242.png]]
 
-After this point, each area owner could get back into their areas and start to work. I started to work on the new version of the Village with the concept art team as I worked on the frame view from the exterior of the Temple of Father to the Bath house and Village and the Bath house exterior. I played a little of Monster Hunter: World to understand how they built their maps with so much richness and specially, because we wanted to create a fungi forest with more texture and size difference. At some point during this whole process I started to take the [[Design de Concept Art e World Building]] course
+After this point, each area owner could get back into their areas and start to work. I started to work on the new version of the Village with the concept art team as I worked on the frame view from the exterior of the Temple of Father to the Bath house and Village and the Bath house exterior. I played a little of Monster Hunter: World to understand how they built their maps with so much richness and specially, because we wanted to create a fungi forest with more texture and size difference. At some point during this whole process I started to take the [[Study Notes/Art & Design/Courses/Especialização em Arte Conceitual - Design Criativo de Personagens/index|Design de Concept Art e World Building]] course which helped me a lot to talk with the concept artists of the team.
+
+At this point I took sometime to observe the possible spaces that could be used to create nice vistas:
+![[Pasted image 20250826185337.png]]
+
+![[Pasted image 20251121164336.png]]
+
+Observe that at this moment we still had a lot of models to convey our divisions inside the terrain. At some point of the development we switched to use [Gaea](https://quadspinner.com) combined with the terrain tool from Unreal. Meanwhile our team was divided, so we could work in parallel in more areas than just the inside of the Bath-House. My computer was screaming at me every time I had to move a mountain here. Each icon is to indicate where each member is working at the moment.
+
+![[Pasted image 20251121164600.png]]

@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import TamaNotchi from "./pages/TamaNotchi"
+export { default as LevelBox } from "./LevelBox"
 
 
 export {

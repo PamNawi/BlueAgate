@@ -4,9 +4,10 @@ tags:
   - Projects
   - GameDesign
   - LevelDesign
-title: Aexia - Introduction
+title: Aexia
 aliases:
   - Aexia
+private: "true"
 ---
 <video controls width="640"> <source src="https://video.fastly.steamstatic.com/store_trailers/256955241/movie480_vp9.webm?t=1704740371" type="video/webm"> Seu navegador não suporta a reprodução de vídeos no formato WebM. </video>
 <div style="display: flex;"> 

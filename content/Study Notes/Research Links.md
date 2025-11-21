@@ -7,5 +7,4 @@ As the years are passing, the search engines are becoming each more dreadful to 
 # Books:
 - [WikiSource](https://en.wikisource.org/): A big selection of books
 - [InternetArchive](https://archive.org): Its a gigantic media library, you can found any kind of media on this... from android apks to old newspapers from 1800s.
-- 
 

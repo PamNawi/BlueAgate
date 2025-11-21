@@ -4,9 +4,10 @@ tags:
   - GameDesign
   - Courses
   - "#TypesOfGamesInLevelDesign"
-title: Introduction
+title: Trypes of Game in Level Design
 aliases:
   - Types of Games in Level Design
+private: "true"
 ---
 # Status: **✔️ Done**
 

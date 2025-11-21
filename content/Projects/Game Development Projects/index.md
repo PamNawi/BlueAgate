@@ -2,10 +2,12 @@
 tags:
   - "#Projects"
   - GameDevelopment
+private: "true"
+title: Game Development Projects
 ---
 This is a list of projects in which I have participated as a game developer
 
-# [[_Oneira|Oneira]] [2024 - Present]
+# [[index_Oneira|Oneira]] [2024 - Present]
 
 <div style="width: 100%; max-width: 560px; margin-bottom: 10px; background-color: #000; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   <video controls style="width: 100%; height: 315px; display: block;">
@@ -42,3 +44,5 @@ This is a list of projects in which I have participated as a game developer
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/76px-Jira_Logo.svg.png?20230123125334" style="height: 40px;">
   <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" style="height: 40px;">
 </div>
+
+---

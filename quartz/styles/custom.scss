@@ -173,3 +173,26 @@
   justify-content: center;
   align-items: center;
 }
+
+.ld-box {
+  width: 187px;
+  height: 213px;
+  background-image: url("https://i.imgur.com/qg75wGk.gif");
+  background-size: cover;
+  background-position: center;
+  border: none;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.ld-content {
+  width: 162px;
+  height: 155px;
+  overflow-y: auto;
+  font-family: Verdana, sans-serif;
+  font-size: 0.75rem;
+  color: #4e4e4e;
+  border: none;
+  line-height: 1.3;
+}

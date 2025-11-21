@@ -12,6 +12,7 @@ tags:
 title: Classroom notes for Game Development on AI
 aliases:
   - Artificial Intelligence
+private: "true"
 ---
 For 2016 until 2020 I teach for the game development course on Positivo University in Curitiba. During this years I created some study notes that I used on my classrooms.  I'm importing it as they where delivered to my students and I don't plan to translate it. 
 

@@ -1,9 +1,10 @@
 ---
-tags: 
+tags:
 aliases:
   - TheArtOfLevelDesign
 title: The Art of Level Design
 draft: "true"
+private: "true"
 ---
 
 # Status: Doing

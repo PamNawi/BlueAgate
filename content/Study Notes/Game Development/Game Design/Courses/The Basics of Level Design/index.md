@@ -4,7 +4,8 @@ tags:
   - GameDesign
   - Courses
   - TheBasicsOfLevelDesign
-title: Introduction
+title: The Basics of Level Design
+private: "true"
 ---
 # Status: **✔️ Done**
 

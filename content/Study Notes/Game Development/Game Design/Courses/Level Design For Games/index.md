@@ -6,13 +6,14 @@ tags:
 title: CGMA Level Design Course
 aliases:
   - CGMA Level Design Course
+private: "true"
 ---
 # Status: **✔️ Done**
 
 I took the [CGMaser Academy Level Design For Games](https://www.gameart.cgmasteracademy.com/courses/level-design-for-games) course on July 2024 with Shane Canning as a professor. This was a course focused on Level Design and each week of course we had to do an assignment to show what we learned that week.
 
 ## Notes:
--  [[Week  01]]
+-  [[Week 01]]
 -  [[Week 02]]  <a href="https://drive.google.com/drive/folders/1C0jI_xEU6dLlAs0tp-71OQ6PMSDH_p1C?usp=drive_link" target="_blank"> <img src="https://web.archive.org/web/20090831071100/http://geocities.com/rafaelbarreto/piadas/Download.gif"  title="Get the project on Google Drive" style="max-width: 100%; border-radius: 0px; vertical-align: middle;"> 
 </a>
 -  [[Week 03]]  <a href="https://drive.google.com/drive/folders/1c8CE55ncZ3A-AspNS-DI3iSJRObUp7NV?usp=drive_link" target="_blank"> <img src="https://web.archive.org/web/20090831071100/http://geocities.com/rafaelbarreto/piadas/Download.gif"  title="Get the project on Google Drive" style="max-width: 100%; border-radius: 0px; vertical-align: middle;"> 

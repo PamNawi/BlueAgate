@@ -48,3 +48,5 @@ TEXT/IMAGES GO HERE.
 </div>
 
 https://www.asterism-m.com/item/table/table-memo01.php
+
+https://github.com/quartz-community/awesome-quartz?tab=readme-ov-file#guides

@@ -9,6 +9,7 @@ tags:
 title: Learn Advanced AI For Games with Behaviour Trees
 aliases:
   - Learn Advanced AI For Games with Behaviour Trees
+private: "true"
 ---
 # Status: In Progress
 

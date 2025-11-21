@@ -2,6 +2,10 @@
 tags:
   - ConceptArt
   - Courses
+private: private
+title: Design de Concept Art e World Building
+aliases:
+  - Design de Concept Art e World Building
 ---
 # Status: Doing
 
