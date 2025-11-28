@@ -12,6 +12,8 @@ tags:
 - [Relic & Artifact Generator](https://superobot1.itch.io/relic-generator)
 - [Papers on Demand](https://comigo.itch.io/papers)
 - [Comigo's Palette Generator](https://comigo.itch.io/palettes)
+- [Effect Texture Maker](https://mebiusbox.github.io/contents/EffectTextureMaker/)
+- [Shader Arsenal by XoR](https://www.xordev.com/arsenal)
 
 # Tilesets for Prototyping
 - [Isometric Tileset for Prototyping](https://comigo.itch.io/isometric-tileset-for-prototyping)
@@ -19,4 +21,8 @@ tags:
 
 # Map References:
 - https://mapgenie.io
-- 
+
+
+# Other Subjects:
+- [Catlike Coding](https://catlikecoding.com)
+- [Godot Shaders by Ewoud3D](https://codeberg.org/Ewoud3D/Shaders/src/branch/main)
