@@ -50,13 +50,11 @@ I learned a lot even on how I needed to structure such big document for the futu
 This resulted in a very curious structure inside the Obsidian Vault:
 
 > Excalidraw (All the images/icons necessary to create the maps)
- >> Icons
- > Venore
+> Venore
  > > Images
  > > Enemies
- > > > Camps
- > > > > BanditCamp
- > > > > Cemitery
+ > > > BanditCamp
+ > > > Cemitery
  > > > Bandit Leader
  > > > Bandit Archer
  > > > Bandit Sword
@@ -64,15 +62,13 @@ This resulted in a very curious structure inside the Obsidian Vault:
  > > > VenoreCityMap
  > > > VenoreCathedral
  > > NPCs
- > > >Vendors
- > > > > Apothecary
- > > > > Blacksmith
- > > > > MagicShop
- > > > > Tailor
- > > > > TavernKeeper
- > > > > Utilitary
- > > > Quests
- > > > > Farmer
+ > > > Apothecary
+ > > > Blacksmith
+ > > >MagicShop
+ > > > Tailor
+ > > > TavernKeeper
+ > > > Utilitary
+ > > > Farmer
  > > Lore
  > > Index
  > > Visual References
