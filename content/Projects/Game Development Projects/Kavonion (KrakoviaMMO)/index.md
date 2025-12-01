@@ -3,6 +3,8 @@ tags:
   - Kavonion
   - Krakovia
   - GameJam
+  - LevelDesign
+  - MMORPG
 private: "true"
 aliases:
   - KrakoviaMMO

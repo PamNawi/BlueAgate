@@ -1,3 +1,11 @@
+---
+tags:
+  - LevelDesign
+  - LevelProgressDiagrams
+  - GameDesign
+  - GameDevelopment
+---
+
 This is a concept that I stumble on bluesky. The original post is from the [DoomWorld](https://www.doomworld.com/forum/topic/100569-level-progress-diagrams-%E2%80%93-2002ado/) by the user Waith777, and was used to help the discussion around if a map was linear or not, I don't have much of information around what is the problem here, but I loved how they represent their maps and I want to incorporate this knowledge on my Level Designs. I'm coping some of the text here just in case the site is put down on the future, didn't had the time to process this information and rewrite it:
 
 _"**Level Progress Diagram** (**LPD**) is a simplified representation of map that depicts its **Level Progress**."_
