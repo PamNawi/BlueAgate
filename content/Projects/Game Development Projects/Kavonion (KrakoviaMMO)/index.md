@@ -5,11 +5,10 @@ tags:
   - GameJam
 private: "true"
 aliases:
-  - Kavonion
   - KrakoviaMMO
-title: Kavonion
+title: KrakoviaMMO
 ---
-During the year of 2025 I engaged with a team to participate of [Krakovia Jam]([https://youtu.be/QOFvSpcafLk](https://youtu.be/QOFvSpcafLk "https://youtu.be/QOFvSpcafLk")) which the main objective was to make an MMORPG named Krakovia. I did some basic  Level Design and planning for a city called Venore, which would be starting city of that game, and I also helped creating a small Game Design Document for the project using Obsidian + Github. Its sad that the team is quiet from sometime already so I decided to bring that Obsidian Vault to be inside this so I wouldn't lost the register of it. The pages and the structure where not planned originally to be exibited inside a WebBrowser, but should be used locally by the team, but I'm bringing partly the content to be seen here. On parallel with this project I was doing some of the areas for [[Projects/Game Development Projects/Oneira/index|Oneira]]. That was very intense 2 months.
+During the year of 2025 I engaged with a team to participate of [Krakovia Jam](https://youtu.be/QOFvSpcafLk) which the main objective was to make an MMORPG named Krakovia. I did some basic  Level Design and planning for a city called Venore, which would be starting city of that game, and I also helped creating a small Game Design Document for the project using Obsidian + Github. Its sad that the team is quiet from sometime already so I decided to bring that Obsidian Vault to be inside this so I wouldn't lost the register of it. The pages and the structure where not planned originally to be exibited inside a WebBrowser, but should be used locally by the team, but I'm bringing partly the content to be seen here. On parallel with this project I was doing some of the areas for [[Projects/Game Development Projects/Oneira/index|Oneira]]. That was very intense 2 months.
 # Venore
 
 The following text was delivered for me as the main lore of the game and for Venore City, that I didn't translate from Portuguese:
