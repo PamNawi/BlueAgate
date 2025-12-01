@@ -49,30 +49,32 @@ I learned a lot even on how I needed to structure such big document for the futu
 
 This resulted in a very curious structure inside the Obsidian Vault:
 
-> Excalidraw (All the images/icons necessary to create the maps)
-> Venore
- > > Images
- > > Enemies
- > > > BanditCamp
- > > > Cemitery
- > > > Bandit Leader
- > > > Bandit Archer
- > > > Bandit Sword
- > > Maps
- > > > VenoreCityMap
- > > > VenoreCathedral
- > > NPCs
- > > > Apothecary
- > > > Blacksmith
- > > >MagicShop
- > > > Tailor
- > > > TavernKeeper
- > > > Utilitary
- > > > Farmer
- > > Lore
- > > Index
- > > Visual References
-
+- Excalidraw (All the images/icons necessary to create the maps)
+- Venore
+	- Images
+	- Lore
+	- Index
+	- Visual References
+	- Enemies
+		- Camps
+			- BanditCamp
+			- CemiteryCamp
+		- Bandit Leader
+		- Bandit Archer
+		- Bandit Sword
+	- Maps
+		- VenoreCityMap
+		- VenoreCathedral
+	- NPCs
+		- Vendors
+			- Apothecary
+			- Blacksmith
+			- MagicShop
+			- Tailor
+			- TavernKeeper
+			- Utilitary
+		- Quests
+			- Farmer
 
 None of these where actually completely done, but I really liked on how I could use this tool to connect the information. The VenoreCityMap was actually interactable so every time I clicked an icon for an NPC I would be redirected to the note about that NPC.
 
