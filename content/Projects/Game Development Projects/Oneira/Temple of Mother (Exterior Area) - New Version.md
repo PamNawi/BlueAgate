@@ -44,4 +44,7 @@ The concept artist did her magic and we got an amazing art from her that helped 
 ![[Pasted image 20251121172101.png]]![[Pasted image 20251121172119.png]]
 
 With the new models from the art team and this concept art, I did an update on that area:
+
 ![[ScreenShot00001.png]]
+
+After finishing tidying up this area I moved to make the [[Temple of Mother (Interior Area) - New Version]]].

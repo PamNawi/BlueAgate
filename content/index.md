@@ -21,7 +21,7 @@ I choose to create a digital garden using  [Obsidian](https://obsidian.md) with 
 # WebRings
 This garden is connected with other sites by participating in some webrings. Please take a look at other sites from the rings if you like the themes!
 
-<!-- Devring -->
+<!-- GameDevring -->
 <a href="https://www.rainbowcemetery.com/devring/list.php?id=0">
   <img src="https://www.rainbowcemetery.com/devring/88x31.png" alt="Devring" style="margin-right: 10px;">
 </a>
@@ -37,14 +37,6 @@ This garden is connected with other sites by participating in some webrings. Ple
 </span>
 
 <!-- Magic Ring -->
-<div id='magicring'>
-<script type="text/javascript" src="https://magicring.neocities.org/onionring-variables.js"></script>
-<script type="text/javascript" src="https://magicring.neocities.org/onionring-widget.js"></script>
-</div>
-<div id='magicring'>
-<script type="text/javascript" src="https://magicring.neocities.org/onionring-variables.js"></script>
-<script type="text/javascript" src="https://magicring.neocities.org/onionring-widget.js"></script>
-</div>
 <div id='magicring'>
 <script type="text/javascript" src="https://magicring.neocities.org/onionring-variables.js"></script>
 <script type="text/javascript" src="https://magicring.neocities.org/onionring-widget.js"></script>

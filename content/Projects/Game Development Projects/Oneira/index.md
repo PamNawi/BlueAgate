@@ -75,7 +75,8 @@ For more details on the areas that I worked directly you see the progress and th
 - [[Temple of Father - Old Version]]
 - [[The Trench - Old Version]]
 - [[The Village - Old Version + New Version]]
-- [[Temple of Mother(Exterior Area) - New Version]]
+- [[Temple of Mother (Exterior Area) - New Version]]
+- [[Temple of Mother (Interior Area) - New Version]]
 
 ### Why did you guys are remaking the Mushroom Forest?
 There's a lot of reasons on why we are remaking it completely, but I will try to enumerate it:

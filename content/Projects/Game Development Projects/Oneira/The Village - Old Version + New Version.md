@@ -11,7 +11,7 @@ The narrative around it was polished and kept, but it had a lot of exploration o
 - The village should be split on 3 sections: father side, underground, mother side.
 - The father side and the underground area should flooded.
 - The mother area its thriving, being not flooded by the water.
-- The next area after the village is the [[Temple of Mother(Exterior Area) - New Version]] which is inside a pit.
+- The next area after the village is the [[Temple of Mother (Exterior Area) - New Version]] which is inside a pit.
 # Original Version
 What I'm calling here as the original version, is actually a lie. From what I know, this was the third iteration, and I was the third level designer on this gigantic of area. Its just this is the version that I'm was assumed.
 
