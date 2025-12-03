@@ -1,9 +1,10 @@
 ---
 tags:
   - TheArtOfLevelDesign
+  - LevelDesign
+  - Courses
 draft: "true"
 ---
-
 # What is a Level Designer?
 Its a person who the primary role will be to design challenging, engaging and fun levels that can fit into the structure and pace of a game.
 

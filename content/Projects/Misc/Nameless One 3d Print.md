@@ -5,6 +5,7 @@ tags:
   - 3DModel
   - RagnarokOnline
 ---
+![[notanoption.gif]]
 I play Ragnarok Mobile: Eternal Love game since it launched the global server, its on my daily routine and I met people from across the globe. Since I saw some other players doing some data mining for extract the code and the models I always wanted to do a small 3d printing of my characters inside the game. It took literally YEARS to do. Its far from perfect and probably would be easier and more effective to learn how to do a 3D model from scratch. I will list partly of the process that I did until I could ask a friend to 3d print a character model from the game.
 
 # The Target
@@ -14,6 +15,8 @@ I wanted to be able to make 3d prints from the character of the game. For that I
 
 # The Extraction
 I think this step can viewed as illegal, but its 2025 you downloaded the thing, the file is on your computer, you should be able to use it however you want if not doing any harm to anyone else, if anything this process was a homage of the other fellows gamedevs and the artistry to create this character.
+
+![[warning (2) 1.gif]]
 
 I did a very large inspection on the files using multiple types of programs, my best solution was to use a software called [Asset Ripper](https://github.com/AssetRipper/AssetRipper). Each part of the character, (body, hair, face) where extracted in a different 3D object. Took a long time, since I had to extract of those all the files and then search for those on the result folder. There's a lot of gems inside it. I still want to make a whole [Glast Heim](https://ragnaplace.com/pt/bro/map/glast_01/glast-heim) set with the main building or the church entrance and a Baphomet there. It will take time.
 
@@ -55,4 +58,8 @@ My friend had the kindness of processing and making it look good after before se
 
 ![[Pasted image 20251202153744.png]]
 
+I learned a lot from this whole process and I want to repeat now with my own characters. My friend who took the job to print asked me to the next time I learn how to slice the model in smaller parts that are easier to print, like its hair. He suggest that I read this [tutorial](https://all3dp.com/2/how-to-split-3d-model-stl-file-for-3d-printing/) to get this new skill.
+
+![[warning (2).gif]]
+I'm not distributing any of the files that I got and this probably will be the only 3d print copy that will exist made by me on this process. As I said on the beginning of this note, this is more a love letter for the game, creators and my friend than anything else. If you choose to follow this steps, you have my blessing, but be aware that not everything here might be legal where do you live.
 

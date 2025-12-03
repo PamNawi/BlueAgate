@@ -1,5 +1,9 @@
 ---
 draft: "true"
+tags:
+  - TheArtOfLevelDesign
+  - LevelDesign
+  - Courses
 ---
 
 # Where do I Start?

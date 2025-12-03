@@ -1,5 +1,8 @@
 ---
 tags:
+  - TheArtOfLevelDesign
+  - LevelDesign
+  - Courses
 aliases:
   - TheArtOfLevelDesign
 title: The Art of Level Design
