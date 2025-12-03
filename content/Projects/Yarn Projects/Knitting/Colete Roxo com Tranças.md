@@ -13,10 +13,10 @@ Em Julho de 2025 comecei à fazer um colete roxo de tricô.
 ### 🧶✂️ Materiais Utilizados 
 
 **Fio**
-_Nome:_ Java (Circulo) 
-_Cor:_ 8892 Lot 20 
-_Composição:_ 100% Acrílico
-_Agulha:_ 8mm Circular
+- _Nome:_ Java (Circulo) 
+- _Cor:_ 8892 Lot 20 
+- _Composição:_ 100% Acrílico
+- _Agulha:_ 8mm Circular
 
 ### Amostra:
 
