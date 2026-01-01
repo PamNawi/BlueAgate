@@ -14,6 +14,8 @@ tags:
 - [Comigo's Palette Generator](https://comigo.itch.io/palettes)
 - [Effect Texture Maker](https://mebiusbox.github.io/contents/EffectTextureMaker/)
 - [Shader Arsenal by XoR](https://www.xordev.com/arsenal)
+- [Watabou's Procgen Arcana](https://watabou.github.io)
+- 
 
 # Tilesets for Prototyping
 - [Isometric Tileset for Prototyping](https://comigo.itch.io/isometric-tileset-for-prototyping)
