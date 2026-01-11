@@ -5,8 +5,6 @@ tags:
   - LevelDesign
   - Dreamwalker
 title: Temple of Mother (Interior Area)
-private: "true"
-draft: "true"
 ---
 The interior of the Temple of Mother is the last area that the player will be before the boss fight. It was inspired on a [[Gothic Cathedral]] and has some puzzles inside combining the gravity pad with the spore jar and introduce clouds as a new platform.
 
