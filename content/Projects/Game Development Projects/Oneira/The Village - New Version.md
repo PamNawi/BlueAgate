@@ -1,7 +1,7 @@
 The newer was developed for the game on the new version of the map. It has the same division than the older one that was defined by the narrative: 
-- father side, 
+- father side 
 - interior/undergroud 
-- mother side. 
+- mother side 
 
 As the rest of the map, this area was primarely studied and constructed before ignoring the terrain tool, just by using cubes. I wanted to understand the shapes and the sizes of each area. Another thing that was important for me was also understand what would be views for the player. 
 
@@ -32,8 +32,6 @@ After this was a matter of polishing the region, by adjusting the position of al
 ![[Pasted image 20260111185804.png]]
 
 ![[Pasted image 20260111185841.png]]
-
-![[Pasted image 20260111190013.png]]
 
 The mother side is connected directly with the [[Temple of Mother (Exterior Area) - New Version]]
 
