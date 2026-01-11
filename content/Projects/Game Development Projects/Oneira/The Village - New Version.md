@@ -35,7 +35,7 @@ After this was a matter of polishing the region, by adjusting the position of al
 
 ![[Pasted image 20260111190013.png]]
 
-The mother side is connected directly with the [[Temple of Mother (Exterior Area) - New Version]
+The mother side is connected directly with the [[Temple of Mother (Exterior Area) - New Version]]
 
 ![[ScreenShot00025.png]]
 
