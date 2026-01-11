@@ -13,9 +13,9 @@ The narrative around it was polished and kept, but it had a lot of exploration o
 - The mother area its thriving, being not flooded by the water.
 - The next area after the village is the [[Temple of Mother (Exterior Area) - New Version]] which is inside a pit.
 # Original Version
-What I'm calling here as the original version, is actually a lie. From what I know, this was the third iteration, and I was the third level designer on this gigantic of area. Its just this is the version that I'm was assumed.
+What I'm calling here as the original version, is actually a lie. From what I know, this was the third iteration, and I was the third level designer on this gigantic of area. Its just this is the version that I assumed.
 
-![[ScreenShot00018.png]]
+![[ScreenShot00018 1.png]]
 
 ### Procedural Generation
 
@@ -61,17 +61,3 @@ This mechanics created some interesting situations for the player to play, but i
 On the similar fashion the next puzzle room had water on the celling so when a floating cube hit it, it would be fall, so the player could use it to activate another button. This second puzzle also would teach that mushrooms could be combined.
 
 ![[Pasted image 20250902181337.png]]
-
-# New version of the Village
-The newer is being developed as I wrote this text and still consist on the same division: father side, interior/underground and mother side. Right now, on the bottom of the image its the only area that is more or less done, the father side area that wasn't flooded yet.
-
-![[Pasted image 20250902185849.png]]
-
-Like I already mentioned, one of the problems that I'm trying to convey is to be more tight with the architecture chose for the temples of the father and mother. The art team and the level design team made a long study on what architecture we should be leaning on both temples. For the Temple of Father was chose a more primitive japanese architecture in a isle detached from the rest of the map. The isle should be sinking like the correspondent village area. For the Temple of the Mother, since we wanted to represent visually more of her controlling side we chose to use more a High Gothic architecture.
-
-Since we are coming from a japanese bath house I took some time to study how they built their gardens. I knew from my previous experience building aquariums that they have some rules they follow during the planning phase. On the past I experienced and study how they position stones on Iwagumi builds and reading a around the [Wabi Sabi Principles](https://www.soumiamasmoudi.com/blog/wabi-zabi) gave me some new perspectives that I embraced on this small area and that will be brought on the others areas. I'm using some spheres just so we can start to discuss around the vegetation in each area too.
-
-![[ScreenShot00026.png]]
-
-Did you noticed that the art team is already testing and substituting some of the mushrooms? The smaller and yellow ones were made by me just to test the composition, while the bigger purple ones are already finalized. I will be updating this page with some frequency while I built this area.
-

@@ -47,4 +47,4 @@ With the new models from the art team and this concept art, I did an update on t
 
 ![[ScreenShot00001.png]]
 
-After finishing tidying up this area I moved to make the [[Temple of Mother (Interior Area) - New Version]]].
+After finishing tidying up this area I moved to make the [[Temple of Mother (Interior Area) - New Version]].
