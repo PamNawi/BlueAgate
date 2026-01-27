@@ -42,8 +42,7 @@ This is a single SET with a kitchen, originally comes with the citadel, but coul
 A common place for conversations and strolls between characters on many books are the castle garden and the groove.
 
 
-The groove is a 2x2 group of SETs combined was planned to be combined mixed and match with the [[The Enchanted Forest SETs]] SETs.
-
+The groove is a 2x2 group of SETs combined was planned to be combined mixed and match with the [[The-Enchanted-Forest-SETs]] SETs.
 
 ## The Medieval Tavern
 Its very common for TTRPGs campaigns start on at any sort of tavern. Here we have a tavern ready made with 2x2 to be used by the GMs start their games. The tables SETs can be used alone and replicate to easily expand the environment or even combined with the tables from the throne room feast SETs.

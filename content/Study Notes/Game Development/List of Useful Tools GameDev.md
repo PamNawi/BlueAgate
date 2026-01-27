@@ -15,15 +15,13 @@ tags:
 - [Effect Texture Maker](https://mebiusbox.github.io/contents/EffectTextureMaker/)
 - [Shader Arsenal by XoR](https://www.xordev.com/arsenal)
 - [Watabou's Procgen Arcana](https://watabou.github.io)
-- 
 
 # Tilesets for Prototyping
 - [Isometric Tileset for Prototyping](https://comigo.itch.io/isometric-tileset-for-prototyping)
 # Map References:
 - https://mapgenie.io
-
-
 # Other Subjects:
 - [Catlike Coding](https://catlikecoding.com)
 - [Godot Shaders by Ewoud3D](https://codeberg.org/Ewoud3D/Shaders/src/branch/main)
+- [The no Twinkie Database](http://www.designersnotebook.com/Design_Resources/No_Twinkie_Database/no_twinkie_database.htm)
 - [[Links Recomendados]]
