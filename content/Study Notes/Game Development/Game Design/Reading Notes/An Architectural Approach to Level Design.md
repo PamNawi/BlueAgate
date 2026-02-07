@@ -5,8 +5,11 @@ tags:
   - GameDevelopment
   - Architecture
   - Sighlines
+  - ChristopherTotten
 ---
 I started to read this book after many years of waiting in January 2026. I first saw the physical copy of it being sold by 200+ reais around 5 or 10 years ago. As I'm reading it, I'm adding my notes taken during it.
+
+Author Website: [Christopher Totten](http://www.christotten3d.com)
 
 The book start talking about [Vitruvius](https://en.wikisource.org/wiki/Ten_Books_on_Architecture), a roman architect that proposed in his book some principles that are relevant until today and should be considered to construct any environment in a game. Those principles are equally important for level design that is being proposed today:
 

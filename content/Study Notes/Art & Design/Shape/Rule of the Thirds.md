@@ -1,4 +1,0 @@
----
-draft: "true"
----
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:weydncroorqvr23qtuhp3m5q/app.bsky.feed.post/3mbwiiowfss24" data-bluesky-cid="bafyreign3sasy5b63nblmg3ktyyfjudctt6zdbigwvzc6albbhtajr477u" data-bluesky-embed-color-mode="dark"><p lang="en">The (not) rule of thirds.<br><br><a href="https://bsky.app/profile/did:plc:weydncroorqvr23qtuhp3m5q/post/3mbwiiowfss24?ref_src=embed">[image or embed]</a></p>&mdash; Nathan Fowkes Art (<a href="https://bsky.app/profile/did:plc:weydncroorqvr23qtuhp3m5q?ref_src=embed">@nathanfowkes.com</a>) <a href="https://bsky.app/profile/did:plc:weydncroorqvr23qtuhp3m5q/post/3mbwiiowfss24?ref_src=embed">January 8, 2026 at 2:19 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script> 

@@ -16,7 +16,6 @@ _"The various qualities of the images produced by the sense of sight are not sta
 
 Its common for designers and architects seek the proper distance between physical objects and thesis knowledge is important to understand how balance works. The next image is called "structural skeleton" contains the result of informal explorations about this subject. The boundaries and the center of the square are important, but also the cross-shaped framework formed on the center by the horizontal axes and by the diagonals. The center, the principal locus of attraction and repulsion, establishes itself through the crossing of theses four main structural lines. Others points inside on the lines are much less powerful than the center.
 
-
 ![[Pasted image 20221216210120.png]]
 
 If you place anything inside a square, it is affected by forces of all these structural factors. The relative strength and distance of these factors will determine their effect in the total configuration. At the center is balanced. Any location that coincides with a feature of the structural skeleton introduces an element of stability that can be counter-acted by other factors.
@@ -26,5 +25,3 @@ If a influence from a particular direction predominates, this results a pull in 
 ![[Pasted image 20221216212644.png]]
 
 We shall have many occasions to observe that physical and psychological systems exhibit a very general tendency to change in direction of the lowest attainable tension level, normally the reduction of tension can be obtained when elements of visual patterns can give in to the directed perceptual forces inherent in them
-<h2>Questions:</h2>
-When I look at the image for the structural skeleton of a square, I clearly see the 3/4 rule for photography. I'm right on this?
