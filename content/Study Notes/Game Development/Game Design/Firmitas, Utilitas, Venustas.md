@@ -25,24 +25,24 @@ _"Utilitas, usability. The spaces created by the building are suited for their i
 
 _"Gamespaces must be usable. In this way we should concentrate on how players see gamespace through points of view and game cameras and how one navigates levels. This element of level design concentrates on navigation and teaching. As we will see, levels are an opportunity for game designers to have an indirect conversation with players. As such, our game levels should teach players how to use themselves and speak in easily understood language."_ - Christopher W. Totten
 
-A space inside a game should be serving certain necessity that a game has. This is the famous [form follows function design principle](https://en.wikipedia.org/wiki/Form_follows_function). A level designer need to be aware all the time what that space is serving for and accommodate that.
+A space inside a game should be serving certain necessity that a game has. This is the famous [form follows function design principle](https://en.wikipedia.org/wiki/Form_follows_function). A level designer need to be aware all the time what that space is serving for and accommodate that. I also like to think that all the [[Ten Principles for a Good Level Design]] are inside this category. 
 
-I like to create flow charts and some simple graphs considering the requirement imposed by the game primarily, even before we hit any game engine. This way we already can start to discuss how all the requirements a section of the game has, when mechanics should be introduced, how big the space can be and some views. 
+I like to create flow charts and some simple graphs (like a [[Level Progress Diagrams (LPD)]] or even a simple bubble chart) considering the requirement imposed by the game primarily, even before we hit any game engine. This way we already can start to discuss how all the requirements a section of the game has, when mechanics should be introduced, how big the space can be and some views. 
 
 # Venustas (Delight): 
 _"- Venustas, beauty. This building has a beautiful aesthetic"_ - Martin Nerurkar
 
  _"Our gamespaces should rewarding to go through. For this we must engage the psychological elements of level design and understand how levels guide players through emotional experiences"_ - Christopher W. Totten
 
-Even that Venustas originally preach that a building should be easy on the eyes, on level design we are actually reminded that a space should serve the intended atmosphere expected for an area. 
+Even that Venustas originally preach that a building should be easy on the eyes, on level design we are actually reminded that a space should serve the intended atmosphere expected for an area. The level design could be helping by setting the mood of an area with audio visual elements, but it can by nature, help by adding environmental storytelling elements.
 
-The level design could be helping by setting the mood of an area with audio visual elements, but it can by nature, help by adding environmental storytelling elements.
-
-A good example of a horror game that deliver environments that are beautiful, yet the environment is destructed and even filth is [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/).  Specially on the new maps, where clearly the team has gained more experience and knowledge, the maps being reworked have many views that capture the players eyes even inside a dangerous ghost investigation
+A good example of a horror game that deliver environments that are beautiful, yet the environment is destroyed and can be even filth is [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/).  Specially on the new maps, where clearly the team has gained more experience and knowledge, the maps being reworked have many views that capture the players eyes even inside a dangerous ghost investigation
 
 ![[Pasted image 20260207195000.png]]
 ![[Pasted image 20260207195028.png]]
 ![[Pasted image 20260207195040.png]]
+
+For this matter I really like to reference the importance of readability of a view that usually can be reach by contrast or even by studying some [composition techniques](https://petapixel.com/photography-composition-techniques/) like the [[Rule of the Thirds]].
 # References:
 - [The three qualities of level design](https://www.gamedeveloper.com/design/the-three-qualities-of-level-design)
 - [Pacing and gameplay analysis in theory and practice](https://www.gamedeveloper.com/design/pacing-and-gameplay-analysis-in-theory-and-practice)
