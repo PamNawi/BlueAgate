@@ -30,17 +30,18 @@ A space inside a game should be serving certain necessity that a game has. This 
 I like to create flow charts and some simple graphs (like a [[Level Progress Diagrams (LPD)]] or even a simple bubble chart) considering the requirement imposed by the game primarily, even before we hit any game engine. This way we already can start to discuss how all the requirements a section of the game has, when mechanics should be introduced, how big the space can be and some views. 
 
 # Venustas (Delight): 
-_"- Venustas, beauty. This building has a beautiful aesthetic"_ - Martin Nerurkar
+_"Venustas, beauty. This building has a beautiful aesthetic"_ - Martin Nerurkar
 
  _"Our gamespaces should rewarding to go through. For this we must engage the psychological elements of level design and understand how levels guide players through emotional experiences"_ - Christopher W. Totten
 
-Even that Venustas originally preach that a building should be easy on the eyes, on level design we are actually reminded that a space should serve the intended atmosphere expected for an area. The level design could be helping by setting the mood of an area with audio visual elements, but it can by nature, help by adding environmental storytelling elements.
+Even that Venustas originally was preach that a building should be easy on the eyes, on level design we are actually reminded that a space should serve the intended atmosphere expected for an area. The level design could be helping by setting the mood of an area with audio visual elements, but it can by nature, help by adding environmental storytelling elements.
 
 A good example of a horror game that deliver environments that are beautiful, yet the environment is destroyed and can be even filth is [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/).  Specially on the new maps, where clearly the team has gained more experience and knowledge, the maps being reworked have many views that capture the players eyes even inside a dangerous ghost investigation
 
 ![[Pasted image 20260207195000.png]]
 ![[Pasted image 20260207195028.png]]
 ![[Pasted image 20260207195040.png]]
+![[Pasted image 20260207204930.png]]
 
 For this matter I really like to reference the importance of readability of a view that usually can be reach by contrast or even by studying some [composition techniques](https://petapixel.com/photography-composition-techniques/) like the [[Rule of the Thirds]].
 # References:
