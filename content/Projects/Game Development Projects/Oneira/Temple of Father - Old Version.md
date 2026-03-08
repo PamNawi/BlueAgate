@@ -30,4 +30,3 @@ This puzzle was split into sections inside the temple of Father. An old iteratio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w_Q3hYyg_9Q?si=TrO5chV6lDwkW2rh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 This was the originally the area where the reality mushroom was introduced and we used this intensity chart to help us plan for each area.
-![[Pasted image 20250826163326.png]]
