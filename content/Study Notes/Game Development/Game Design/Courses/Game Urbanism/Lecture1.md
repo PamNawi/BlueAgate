@@ -1,4 +1,10 @@
-
+---
+tags:
+  - LevelDesign
+  - Courses
+  - TheBasicsOfLevelDesign
+draft: "true"
+---
 Our Goal is to understand how urban environments work and how they are constructed.
 
 To find out what cities are and wat they look like, and adjust them to the needs of specific games and worlds.

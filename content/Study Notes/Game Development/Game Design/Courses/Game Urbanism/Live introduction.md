@@ -1,3 +1,10 @@
+---
+tags:
+  - LevelDesign
+  - Courses
+  - GameUrbanism
+draft: "true"
+---
 Understand the fundamentals of urbanism
 apply them to world building, and game/level design
 learn how to create % flesh out urban concepts
