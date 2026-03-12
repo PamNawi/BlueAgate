@@ -8,6 +8,7 @@ tags:
   - UtilityAI
   - AdvancedAI
   - BillMerril
+draft: "true"
 ---
 This is an article that I read by Bill Merrill for GameAIPro.
 

@@ -4,6 +4,8 @@ tags:
   - GameDevelopment
 private: "true"
 title: Game Development Projects
+aliases:
+  - Game Development Projects
 ---
 This is a list of projects in which I have participated as a game developer
 

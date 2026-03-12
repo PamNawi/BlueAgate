@@ -6,12 +6,11 @@ This is a digital garden created and maintained by Pâmela de Assis Beltrani, on
 
 ![[wrong.jpg]]
 
-I do create and study game development both as a programmer and a level designer, you can check my [[Game Development Projects List]] and my [[Small Projects List]] notes to have a look on it. 
+I do create and study game development both as a programmer and a level designer, you can check my [[Projects/Game Development Projects/index|Game Development Projects]] and my [[Small Projects List]] notes to have a look on it. 
 
 I read a little about why I should be studying in public and since I love to learn everyday I'm bringing my notes under the folder Blue Agate, which was the original source Vault of it.
 
 I'm also have doing for years some #Crochet  and #Knitting.So I'm bringing some of my recipes here.
-
 # How to navigate?
 You can easily navigate by clicking on the internal links within each page, by using the interactive graph or the search bar.
 
@@ -42,10 +41,6 @@ This garden is connected with other sites by participating in some webrings. Ple
 <script type="text/javascript" src="https://magicring.neocities.org/onionring-widget.js"></script>
 </div>
 
-Want to talk with me?
-<a rel="me" href="https://masto.donte.com.br/@PamNawi">Mastodon</a>
 𝔼𝕟𝕛𝕠𝕪 𝕪𝕠𝕦𝕣 𝕖𝕩𝕡𝕝𝕠𝕣𝕒𝕥𝕚𝕠𝕟
-
-
 
 #Home #WelcomePage

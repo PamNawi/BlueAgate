@@ -11,9 +11,6 @@ learn how to create % flesh out urban concepts
 design complete cities for a variety of games
 realize how much game cities can offer narratively design wise and artistically
 
-
-D6 Learning school: [https://www.d6learning.com/](https://www.d6learning.com/ "https://www.d6learning.com/")
-
 What are Game Cities?
 - They are all the cities and urban environments found in any type of game
 - They are simulations, game spaces, illusions, storytelling stages, and much more

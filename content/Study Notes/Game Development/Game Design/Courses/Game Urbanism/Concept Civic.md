@@ -15,6 +15,8 @@ Deliverables: City name, descriptive paragraph, answers to the 11 questions, op
 
 **Deadline**: March 9
 
+---
+
 I'm taking a older project and doing another iteration to observe how this city concept will alter after those questions. The original proposed idea is that this city is a lunar base of some kind of planet, far from earth, where a mining exploration team was doing their common work until they receive a distress signal from a nearby cave. They where the only known team on that planet.
 
 - Where is the city?
@@ -42,7 +44,7 @@ I'm taking a older project and doing another iteration to observe how this city 
 ![[Pasted image 20260308110521.png]]
 
 - What is the city's structure?
-	- Reference to the concept image
+![[Pasted image 20260309131253.png]]
 
 - What's the architecture like?
 	- A relevant aspect is that I decided that each module of the city is a gigantic spider something similar, but on smaller scale than the Walking City proposed by Ron Herron in 1964.
@@ -53,6 +55,9 @@ And I enjoyed very much what was done by Alexandra Semushina on her bio inspired
 
 - And I recently discovered the work of Patrice Hubert on metal that also convey much of the lines that I would desire to use on this:
   ![[Pasted image 20260308113110.png]]
+
+	- Some resulting drawings that I got replicating some of the results that I got on the original project:
+	 ![[Pasted image 20260309122928.png]]
 
 - Can you describe the society and city's theme?
 	- Its a mining city, should work like a well "oiled machine", very well defined schedules. Only adults, since is more like a temporary working place than a "family space".

@@ -36,6 +36,7 @@ aliases:
 - [Introdução à Inteligência Artifícial](https://br.udacity.com/course/intro-to-artificial-intelligence--cs271/)
 - [Aprendizagem Automática](https://pt.coursera.org/learn/machine-learning)
 - [Deep Learning](https://br.udacity.com/course/deep-learning--ud730/)
+- [RedefineFX](https://redefinefx.com/free/)
 # ![[A_linkG.gif]] Extras
 - [The Illusion of Intelligence](http://halo.bungie.org/misc/gdc.2002.haloai/talk.html?page=2)
 - [AiGameDev.com](http://aigamedev.com/)

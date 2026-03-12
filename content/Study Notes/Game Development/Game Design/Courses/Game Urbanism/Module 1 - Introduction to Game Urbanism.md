@@ -158,4 +158,12 @@ https://www.youtube.com/watch?v=rqYGh078W0I
 ![[Pasted image 20260304152122.png]]
 
 
-https://gr.pinterest.com/gnomekd/
+🔗 **Useful Links and Resources**
+- [Hive Cities: Reality or Fiction? - a video by Dami Lee](https://www.youtube.com/watch?v=IblQ79_r1WI)
+- [Building Beauclair in the Witcher 3: Wild Hunt - a GDC video](https://www.youtube.com/watch?v=9vEfH9SJ9mY)
+- [Fictional businesses in video games](https://fictionalcompanies.fandom.com/wiki/Category:Fictional_businesses_in_video_games)
+- [Open Street map data](https://www.openstreetmap.org/#map=7/38.359/23.810)
+- [Eurogamer's list of video game city features](https://www.eurogamer.net/topics/the-video-game-city)
+- [The best cities in video games](https://videogames.si.com/features/best-video-game-cities)
+- [The making of Sapienza, Hitman's best level](https://www.pcgamer.com/the-making-of-sapienza-hitmans-best-level/)
+- [A love letter to the slums: The urbanism of Final Fantasy 7](https://www.strongtowns.org/journal/2020/5/13/a-love-letter-to-the-slums-the-urbanism-of-final-fantasy-7)

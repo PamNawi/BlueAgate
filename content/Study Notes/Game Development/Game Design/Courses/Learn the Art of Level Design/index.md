@@ -9,7 +9,6 @@ title: The Art of Level Design
 draft: "true"
 private: "true"
 ---
-
 # Status: Doing
 
 This is a course that I'm taking during December 2024 titled 
