@@ -1,8 +1,9 @@
 ---
 tags:
+  - GameUrbanism
   - LevelDesign
-  - Courses
-  - TheBasicsOfLevelDesign
+  - GameDesign
+  - GameDevelopment
 draft: "true"
 ---
 Our Goal is to understand how urban environments work and how they are constructed.

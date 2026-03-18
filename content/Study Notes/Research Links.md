@@ -10,3 +10,6 @@ As the years are passing, the search engines are becoming each more dreadful to 
 - [Slum : The Shadow Library Uptime Monitor](https://open-slum.org): Its a dashboard that tracks the availability of popular shadow libraries
 # Gifs:
 - [GifCities](https://gifcities.org)
+
+# Map References:
+- https://mapgenie.io

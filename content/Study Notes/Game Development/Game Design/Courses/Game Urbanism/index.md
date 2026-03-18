@@ -6,7 +6,7 @@ This is a course that I'm taking during March 2026  titled
 # Notes:
 - [[Live introduction]]
 - [[Module 1 - Introduction to Game Urbanism]] **✔️**
-- Module 2: Virtual, Real, Imaginary Space
+- [[Module 2 - Virtual, Real, Imaginary Space]] **✔️**
 - Module 3: Urban Functions and Game Geographies
 - Module 4: Game City Concepting
 - Module 5: Archetypes, Genres, Navigation
