@@ -15,7 +15,7 @@ I'm also have doing for years some #Crochet  and #Knitting.So I'm bringing some 
 You can easily navigate by clicking on the internal links within each page, by using the interactive graph or the search bar.
 
 # How did I make this?
-I choose to create a digital garden using  [Obsidian](https://obsidian.md) with [Quartz 4.5](https://quartz.jzhao.xyz) since is easy to maintain and I can have control over both the content and the structure presented. Since I use a couple of plugins on Obsidian that will not translate well for Quartz, not all notes will be perfect to read directly from the browser. You can always always download my Vault on [Github](https://github.com/PamNawi/YellowQuartz) which should have everything ready to use on Obsidian.
+I choose to create a digital garden using  [Obsidian](https://obsidian.md) with [Quartz 5](https://c50e9da6.quartz-1h4.pages.dev) since is easy to maintain and I can have control over both the content and the structure presented. Since I use a couple of plugins on Obsidian that will not translate well for Quartz, not all notes will be perfect to read directly from the browser. You can always always download my Vault on [Github](https://github.com/PamNawi/YellowQuartz) which should have everything ready to use on Obsidian.
 
 # WebRings
 This garden is connected with other sites by participating in some webrings. Please take a look at other sites from the rings if you like the themes!
