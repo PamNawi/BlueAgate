@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: "🌱Blue Agate"
+  pageTitleSuffix: "Digital Garden"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -12,23 +12,24 @@ configuration:
     - private
     - templates
     - .obsidian
+  defaultDateType: modified
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Caveat
+      body: Muli
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
+        light: "#c0dae2"
         lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        gray: "#2d2c38"
+        darkgray: "#2d2c38"
+        dark: "#2d2c38"
+        secondary: "#000080"
+        tertiary: "#0067a5"
+        highlight: "rgba(143, 159, 169, 0.15)"
         textHighlight: "#fff23688"
       darkMode:
         light: "#161618"
@@ -44,7 +45,6 @@ plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
-      defaultDateType: modified
       priority:
         - frontmatter
         - git
@@ -191,10 +191,7 @@ plugins:
       priority: 10
   - source: github:quartz-community/footer
     enabled: true
-    options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+    options: {}
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -238,7 +235,7 @@ plugins:
       priority: 100
       display: all
   - source: github:quartz-community/stacked-pages
-    enabled: false
+    enabled: true
     layout:
       position: afterBody
       priority: 50
