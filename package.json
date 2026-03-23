@@ -11,10 +11,10 @@
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
   },
-"scripts": {
-    "install-plugins": "tsx ./quartz/plugins/loader/install-plugins.ts",
-    "build": "npm run install-plugins && node ./quartz/bootstrap-cli.mjs build",
-    "serve": "node ./quartz/bootstrap-cli.mjs build --serve"
+  "scripts": {
+    "build": "npx quartz build",
+    "serve": "npx quartz build --serve",
+    "update": "npx quartz update"
   },
   "engines": {
     "npm": ">=10.9.2",
