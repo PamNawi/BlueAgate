@@ -149,6 +149,7 @@ As a good practice on level design (specially considering physics) we should kee
 It is **crucial** to ensure that your answers are compatible with the urban concept created for [[Concept Civic]]. Whether a game is an open world or broken up in levels hugely impacts the sizes and scales modeled.
 
   
-Deliverables: Answers to the seven questions above along with brief explanatory texts. These can also be emailed to konstantinos.dimopoulos@gmail.com
-
+Deliverables: Answers to the seven questions above along with brief explanatory texts. 
 **Deadline**: March 17
+
+---

@@ -228,10 +228,6 @@ plugins:
     enabled: true
     options:
       includeAll: false
-      #includedProperties:
-        #- description
-        #- tags
-        #- aliases
       excludedProperties: []
       hidePropertiesView: true
       delimiters: ---
