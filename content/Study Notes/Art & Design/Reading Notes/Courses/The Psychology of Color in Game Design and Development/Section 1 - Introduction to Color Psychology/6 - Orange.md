@@ -29,7 +29,7 @@ _"Orange is a great way to entice them to actually feel confident in their abili
 - **Divorce:** Its is an unconventional color, original to in concept. Does not like emulation and enjoys doing its own thing
 - **Friendship:** Whenever a social gathering is taking place, orange encourages it tenfold
 - **Enthusiasm:** Optimistic and extrovert, it make us more uninhabited
-- **Stimulating:** Not on the same level as [[1. Red]], but does stimulate the appetite.
+- **Stimulating:** Not on the same level as [[1- Red]], but does stimulate the appetite.
 # How it Effects Us
 - **Courage:** Make us take account of our lives, take action and make changes
 - **Vitality:** More of balanced energy than red, full of life force

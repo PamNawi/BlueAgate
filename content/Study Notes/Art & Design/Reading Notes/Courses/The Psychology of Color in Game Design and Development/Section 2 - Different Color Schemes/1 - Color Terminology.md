@@ -32,9 +32,9 @@ _"The Color scheme is the choice of colors used in some design format"_
 
 Look for more details on the following notes:
 
-- [[2. Monochrome Colors]]
-- [[3. Achromatic]]
-- [[4. Analagous]]
-- [[5. Complementary]]
-- [[6. Polychromatic]]
-- [[7. Triadic]]
+- [[2 - Monochrome Colors]]
+- [[3 - Achromatic]]
+- [[4 - Analagous]]
+- [[5 - Complementary]]
+- [[6 - Polychromatic]]
+- [[7 - Triadic]]
