@@ -11,11 +11,10 @@
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
   },
-  "scripts": {
+"scripts": {
     "install-plugins": "tsx ./quartz/plugins/loader/install-plugins.ts",
     "build": "npm run install-plugins && node ./quartz/bootstrap-cli.mjs build",
-    "serve": "node ./quartz/bootstrap-cli.mjs build --serve",
-    "update": "node ./quartz/bootstrap-cli.mjs update"
+    "serve": "node ./quartz/bootstrap-cli.mjs build --serve"
   },
   "engines": {
     "npm": ">=10.9.2",
@@ -55,6 +54,7 @@
     "remark-parse": "^11.0.0",
     "remark-rehype": "^11.1.2",
     "rfdc": "^1.4.1",
+    "sass": "^1.98.0",
     "serve-handler": "^6.1.6",
     "sharp": "^0.34.5",
     "source-map-support": "^0.5.21",
