@@ -48,4 +48,5 @@ tags:
 - [Houdini](https://www.sidefx.com/products/houdini/): A procedural tool built for modularity and perfectly capable of helping with the generation of large urban settings. 
 - [OSM Importer](https://www.sidefx.com/tutorials/osm-importer/): Allows you to import data from the Open Street Maps database into Houdini. 
 - [Miro](https://miro.com/): An excellent collaborative tool for gathering references (and more), that I find crucial to the design of game cities. 
-- [Streetmix](https://streetmix.net/): Wonderful tool for designing contemporary streets with bike paths, sidewalks, etc. 
+- [Streetmix](https://streetmix.net/): Wonderful tool for designing contemporary streets with bike paths, sidewalks, etc.
+- [Avanka city printer](https://anvaka.github.io/city-roads/?q=Curitiba&areaId=3600297514) : This site renders all the roads from a city

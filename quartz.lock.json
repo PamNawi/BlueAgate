@@ -124,8 +124,8 @@
     "folder-page": {
       "source": "github:quartz-community/folder-page",
       "resolved": "https://github.com/quartz-community/folder-page.git",
-      "commit": "c7fe67ccb1944e895aba10d8315aa7fba58f2bb5",
-      "installedAt": "2026-03-22T21:03:33.281Z"
+      "commit": "6e740ccef9112512f2a9ba442ca23882710a2cb9",
+      "installedAt": "2026-03-28T15:45:34.640Z"
     },
     "footer": {
       "source": "github:quartz-community/footer",
@@ -166,8 +166,8 @@
     "obsidian-flavored-markdown": {
       "source": "github:quartz-community/obsidian-flavored-markdown",
       "resolved": "https://github.com/quartz-community/obsidian-flavored-markdown.git",
-      "commit": "daa4a4d99a7e00e7304a376efd3fd0d6f3ebf158",
-      "installedAt": "2026-03-22T21:03:20.375Z"
+      "commit": "9c6f17e56f17453b828946ad8ff6d609159be8c9",
+      "installedAt": "2026-03-28T15:45:39.083Z"
     },
     "og-image": {
       "source": "github:quartz-community/og-image",
@@ -194,9 +194,9 @@
         "subdir": "plugin"
       },
       "resolved": "https://github.com/saberzero1/quartz-themes.git",
-      "commit": "8072a15298c01a8d2ad1141c32f2b5e17cc57477",
+      "commit": "a3c0a5b5cab28b1f97e82ccee781bf7468ad1028",
       "subdir": "plugin",
-      "installedAt": "2026-03-24T17:30:55.594Z"
+      "installedAt": "2026-03-28T15:46:12.600Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
