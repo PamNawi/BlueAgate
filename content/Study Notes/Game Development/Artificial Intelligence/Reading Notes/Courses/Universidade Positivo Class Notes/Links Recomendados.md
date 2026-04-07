@@ -94,6 +94,7 @@ aliases:
 # ![[an_link64afulB.gif]] SmartObjects
 - [Dumb People, Smart Objects : The Sims and the Distributed Self ](https://www.youtube.com/watch?v=VKxg_6vkIdM)
 - [The Sims](http://gameai.com/wiki/index.php?title=The_Sims)
+- [GameDevPensieve](https://www.gamedevpensieve.com/ai/ai_knowledge/ai_knowledge_smart-objects)
 
 # ![[blacklinkarmed.gif]]  Algoritmos Genéticos
 - [Using Genetic Algorithm to Create Adaptive Enemy AI](http://www.gamasutra.com/blogs/MichaelMartin/20110830/90109/Using_a_Genetic_Algorithm_to_Create_Adaptive_Enemy_AI.php)
