@@ -12,3 +12,15 @@ https://iuliu-cosmin-oniscu.medium.com/level-design-by-subdivision-of-space-8700
 
 https://gdcvault.com/play/1020364/Ellie-Buddy-AI-in-The
 https://www.gdcvault.com/play/1020831/Bringing-BioShock-Infinite-s-Elizabeth
+
+https://medium.com/@akshatsultania98/the-nemesis-system-the-narrative-generator-f189e7c7c654
+
+https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter09_An_Introduction_to_Utility_Theory.pdf
+
+https://pizzalegacy.nl/blog/traffic-system.html
+
+https://www.youtube.com/watch?v=K-D2vuKMQhk
+
+https://www.youtube.com/watch?v=oLjVwfUABvw
+
+https://www.youtube.com/watch?v=KsbJPNKtZ7I

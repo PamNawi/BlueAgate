@@ -5,6 +5,7 @@ tags:
   - SmartObjects
   - AdvancedAI
   - Affordances
+draft: "true"
 ---
 _“What we did was make the people really dumb and make the environment and objects really smart. […] basically the fridge yells at the player, ‘I can satisfy hunger five!’ and the chair says, ‘But I’m all about comfort four!’ and the bath says, ‘Hygiene seven right here!’”_
 
