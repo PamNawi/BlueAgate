@@ -1,0 +1,9 @@
+---
+tags:
+  - LevelDesign
+  - GameDesign
+  - Courses
+  - TheBasicsOfLevelDesign
+  - Hazards
+---
+Creating dangerous parts of the environment that can inconvenience, hurt, or even kill the players is essential part of level design.
