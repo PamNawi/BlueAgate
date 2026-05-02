@@ -2,6 +2,7 @@
 tags:
   - Scrum
   - UserStories
+  - Ticket
 ---
 A ticket describing new functionality typically contains:
 
