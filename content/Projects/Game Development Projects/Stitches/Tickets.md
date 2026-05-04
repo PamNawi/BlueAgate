@@ -4,4 +4,4 @@
 [x] Create Hero Class
 
 [x] Create SmartObjects Class
-[ ] Create Blackboard
+[x] Create Blackboard
