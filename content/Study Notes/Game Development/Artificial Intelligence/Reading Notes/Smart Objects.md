@@ -86,20 +86,15 @@ This information is used by the decision-making code (discussed below) to pick t
 **Use an Excel Sheet to Store Properties Centrally:** This is another exception to the objects being self-contained, but it makes things more convenient. When tweaking the game, whether in the final stages before shipping or during prototyping, it’s convenient to have a complete overview of the game in one place.
 
 In _The Sims_, a large Excel sheet is used to store the properties of the objects. When the game is built, the information is copied over to each object individually, but the values can be adjusted centrally without having to search for each object.
-# Responsibility
-Select what agents can use this object. Only cleaners are allowed to water the plants and guards are the only ones allowed to use the weapon locker. More then one dimension of this can be added and one useful one is to tag by area. A guard that founds the player acting strange and follow him across the street should not pick up a guard position at the wrong building. He should only look for GuardIdle objects in the area he is responsible for.
 
-# Ownership
-Who owns the object and has the right to use it. If a police officer goes to the water fountain he would not be happy if another agent have stolen his table when he gets back. This ownership often need to include a set of objects. He can own the chair, the phone on the table and the file cabinet.
+# Implementation details
+There's some implementation details that should be kept in mind about how this pattern can be combined with other patterns specially when doing on other genres of games:
 
-# Dependency
-Smart objects can be chained be setting suggestions for objects to be used after the current one. For example a BathRoomIdle suggest a WashHandsIdle.
-
-# Priority
-Some objects are better then other. When the guard is thinking about taking cover behind the metal filing cabinet and the weak wooden table he should pick the more solid one. Each objects can be given a priority.
-
-# Expected State
-The current state of the object can be retrieved and that way agents can remember changes to it. A guard can notice a open door or a light left on.
+ - **Responsibility:** Select what agents can use this object. For example, only cleaners are allowed to water the plants and guards are the only ones allowed to use the weapon locker. More then one dimension of this can be added and one useful one is to tag by area. A guard that founds the player acting strange and follow him across the street should not pick up a guard position at the wrong building. He should only look for `GuardIdle` objects in the area he is responsible for.
+ - **Ownership:** Who owns the object and has the right to use it. If a police officer goes to the water fountain he would not be happy, if another agent have stolen his table when he gets back. This ownership often need to include a set of objects. He can own the chair, the phone on the table and the file cabinet.
+ - **Dependency:*** Smart objects can be chained be setting suggestions for objects to be used after the current one. For example a `BathRoomIdle` suggest a `WashHandsIdle`.
+ - **Priority:** Some objects are better then other. When the guard is thinking about taking cover behind the metal filing cabinet and the weak wooden table he should pick the more solid one. Each objects can be given a priority. A good utility function to determine those things is important, they should be light and fast for all agents involved.
+ - **Expected State:** The current state of the object can be retrieved and that way agents can remember changes to it. A guard can notice a open door or a light left on. Considers combining smart objects with black board, registering the state of the environment he left and  then came back to.
 
 **Reference**
 https://archive.org/details/rethinkingsmarto0000rasm/page/n7/mode/2up
