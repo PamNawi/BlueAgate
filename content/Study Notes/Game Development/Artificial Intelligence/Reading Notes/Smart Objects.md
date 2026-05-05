@@ -5,7 +5,6 @@ tags:
   - SmartObjects
   - AdvancedAI
   - Affordances
-draft: "true"
 ---
 _“What we did was make the people really dumb and make the environment and objects really smart. […] basically the fridge yells at the player, ‘I can satisfy hunger five!’ and the chair says, ‘But I’m all about comfort four!’ and the bath says, ‘Hygiene seven right here!’”_
 
@@ -103,33 +102,19 @@ Some objects are better then other. When the guard is thinking about taking cove
 The current state of the object can be retrieved and that way agents can remember changes to it. A guard can notice a open door or a light left on.
 
 **Reference**
-
 https://archive.org/details/rethinkingsmarto0000rasm/page/n7/mode/2up
-
 https://gamephilosophy.org/wp-content/uploads/confmanuscripts/pcg2012/Tirrell%202012%20-Dumb-People-Smart-Objects-The-Sims-and-the-Distributed-Self.pdf
-
 https://ixdf.org/literature/topics/affordances
-
 https://gdcvault.com/browse?keyword=the+sims
-
 https://iuliu-cosmin-oniscu.medium.com/exploration-and-risk-zones-4d7db73b096b
-
 https://www.gamedevpensieve.com/ai/ai_knowledge/ai_knowledge_smart-objects
-
 https://web.archive.org/web/20150808020833/http://www.donhopkins.com/home/images/Sims/
-
 https://web.archive.org/web/20190401215457/http://aigamedev.com/open/review/the-sims-ai/
-
 https://dn721602.ca.archive.org/0/items/pg-simpson-scripting-and-sims-2/PG_Simpson_ScriptingAndSims2.pdf
-
 https://dn721602.ca.archive.org/0/items/pg-simpson-scripting-and-sims-2/PG_Simpson_ScriptingAndSims2.pdf
-
 https://www.gdcvault.com/play/1020311/Scripting-and-Sims2-Coding-the
-
 https://www.youtube.com/watch?v=F46pwztA_UY
 https://gdcvault.com/play/1012450/Modeling-Individual-Personalities-in-The
-
 https://archive.org/details/gdc-2001-those-darned-sims-what-makes-them-tick
-
 https://www.youtube.com/watch?v=9gf2MT-IOsg
 

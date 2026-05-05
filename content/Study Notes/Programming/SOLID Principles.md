@@ -8,7 +8,7 @@ This is another note that I'm just digitalizing from an old notebook. I don't re
 A class should have one and only one reason to change, meaning a class should ==have only one job==.
 
 # Open Closed Principle
-Objects or entities should be open to extension but closed for modification
+Objects or entities should be ==open to extension but closed for modification==
 
 ! Why use interfaces over abstract classes?
 An abstract class allow you to create functionality that subclasses can implement or override. An interface only allows you to define a functionality, not implement it. And where's a class can extend only one abstract class, it can take advantage of multiple interfaces.
@@ -16,13 +16,13 @@ An abstract class allow you to create functionality that subclasses can implemen
 # Liskov Substitution Principle
 Let q(x) be a property provable about objects, of x of type T. Then q(y) should be provable for objects y of type S where S is a subtype of T.
 
-This means that every subclass or derived class should be a substitutable for their base or parent class.
+This means that ==every subclass or derived class should be a substitutable for their base or parent class==.
 
 # Interface Segregation Principle
-A client should never be forced to implement an interface that it doesn't use, or clients should be forced to depend on methods they don't use
+==A client should never be forced to implement an interface that it doesn't use==, or clients should be forced to depend on methods they don't use
 
 # Dependency Inversion Principle
-Entities must depend on abstractions, not on concretions, Its states that high level module must not depend on the low-level module, but they should depend on abstractions.
+==Entities must depend on abstractions, not on concretions==, Its states that high level module must not depend on the low-level module, but they should depend on abstractions.
 
 This principle allows decoupling
 
