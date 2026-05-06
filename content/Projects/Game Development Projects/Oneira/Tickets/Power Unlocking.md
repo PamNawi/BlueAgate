@@ -1,5 +1,9 @@
 ---
 draft: "true"
+tags:
+  - UserStories
+  - Oneira
+  - Ticket
 ---
 # User Story
 
