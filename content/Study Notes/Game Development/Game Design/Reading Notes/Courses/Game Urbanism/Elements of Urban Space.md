@@ -83,9 +83,6 @@ Types of shops & workshops one can find:
 - Astrologer / Astronomer
 - Ice house
 
-  
-  
-
 Common types of guilds:
 - Cobblers
 - Weaponsmiths
