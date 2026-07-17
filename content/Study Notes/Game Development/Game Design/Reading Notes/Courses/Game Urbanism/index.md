@@ -9,7 +9,7 @@ This is a course that I'm taking during March 2026  titled
 - [[Module 2 - Virtual, Real, Imaginary Space]] **✔️**
 - [[Module 3 - Urban Functions and Game Geographies]]**✔️**
 - [[Module 4 - Game City Concepting]] **✔️**
-- [[Module 5 - Archetypes, Genres, Navigation]]
+- [[Module 5 - Archetypes, Genres, Navigation]] 
 - Module 6: Everyday Urban Design & Civic Details
 - [[Module 7 - Zooming Into Game Urbanism]]
 - Module 8: City Showcase Workshop ([[Nova ZYN]])

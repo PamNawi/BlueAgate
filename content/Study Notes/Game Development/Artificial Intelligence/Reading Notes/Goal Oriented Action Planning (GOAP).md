@@ -4,6 +4,12 @@ tags:
   - ArtificialIntelligence
   - SearchAlgorithmWithHeuristics
   - SearchMethods
+  - JeffOrkin
+  - Heuristics
+  - AI
+  - AIGameDev
+  - GOAP
+  - Dijsktra
 ---
 When the game first-person shooter psychological horror game called [F.E.A.R](https://en.wikipedia.org/wiki/F.E.A.R.) was launch on 2005 it was also launched the first game to use Goal Oriented Action Planning (GOAP). It used a STRIPS-based architecture that allowed enemies more autonomy than simply reacting to the player. The enemies decided on a goal from a list of options and don't need to have to be programmed or planned on how to best reach certain goal.
 
