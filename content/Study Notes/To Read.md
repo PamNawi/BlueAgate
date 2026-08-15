@@ -27,3 +27,13 @@ https://www.youtube.com/watch?v=KsbJPNKtZ7I
 
 [Level Design by Subdivision of Space](https://iuliu-cosmin-oniscu.medium.com/level-design-by-subdivision-of-space-870099ccf66f)
 ![[Pasted image 20260325130630.png]]
+
+https://www.youtube.com/shorts/70CO8eerKUg
+https://www.youtube.com/shorts/RLb6ue9oMuM
+https://www.youtube.com/watch?v=8_mq15b7CeI
+https://www.youtube.com/shorts/S8gN7LNcjzk
+https://www.youtube.com/shorts/fosQJ1SalGk
+https://www.youtube.com/shorts/_FVAN6ae-d0
+https://www.youtube.com/shorts/44T4ja02WBw
+
+https://www.azulejosantigos.com.br/azulejos-antigos-15x15/
