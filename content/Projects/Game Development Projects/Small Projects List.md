@@ -43,6 +43,10 @@ During January I participated on another edition of [Global Game Jam](https://gl
 I participated on the Platformer Jam #1 developing the level design for the inverted Throne. It was a pretty chill experience of development.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DSPMuQx7sbo?si=nMgd_l2ZsdYqpd6D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## [[KrakoviaMMO]] 
+
+During the year of 2025 I engaged with a team to participate of [Krakovia Jam](https://youtu.be/QOFvSpcafLk) which the main objective was to make an MMORPG named Krakovia. I did some basic  Level Design and planning for a city called Venore, which would be starting city of that game, and I also helped creating a small Game Design Document for the project using Obsidian + Github. Its sad that the team is quiet from sometime already so I decided to bring that Obsidian Vault to be inside this so I wouldn't lost the register of it. The pages and the structure where not planned originally to be exibited inside a WebBrowser, but should be used locally by the team, but I'm bringing partly the content to be seen here. On parallel with this project I was doing some of the areas for [[Projects/Game Development Projects/Oneira/index|Oneira]]. That was very intense 2 months.
+
 # - 2024 -
 ## [[Study Notes/Game Development/Game Design/Reading Notes/Courses/Level Design For Games/index|CGMA Level Design Course]]
 
