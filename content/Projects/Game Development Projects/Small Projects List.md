@@ -15,22 +15,22 @@ During February I participated in a big team as a level designer to make a game 
 As always my exploration process can be classified as a chaotic mess:
 <div class="carousel-container">
 <section class="slider" id="pearlDeep"> 
-<input id="pearl-slide1" name="pearl1" type="radio" checked> 
-<input id="pearl-slide2" name="pearl2" type="radio" >
-<input id="pearl-slide3" name="pearl3" type="radio">
-<input id="pearl-slide4" name="pearl4" type="radio">
-<input id="pearl-slide5" name="pearl5" type="radio">
-<input id="pearl-slide6" name="pearl6" type="radio">
-<input id="pearl-slide7" name="pearl7" type="radio">
+<input id="pearl-slide1" name="pearl" type="radio" checked> 
+<input id="pearl-slide2" name="pearl" type="radio" >
+<input id="pearl-slide3" name="pearl" type="radio">
+<input id="pearl-slide4" name="pearl" type="radio">
+<input id="pearl-slide5" name="pearl" type="radio">
+<input id="pearl-slide6" name="pearl" type="radio">
+<input id="pearl-slide7" name="pearl" type="radio">
 
 <div class="slider-content"> 
-<div class="slider-item"><img src="https://i.imgur.com/KeDoi1g.jpeg" alt="01" title="Chaotic Table Overview" width=600 height=293 /></div> 
-<div class="slider-item"><img src="https://i.imgur.com/R6YhV7O.jpeg" alt="02" title="Construct + Magical Girl page" width=600 height=293 /></div> 
-<div class="slider-item"> <img src="https://i.imgur.com/2QjkP9M.jpeg" alt="03" title="Rust + Unity" width=600 height=293 ></div>
-<div class="slider-item"><img src="https://i.imgur.com/SuC1vXw.jpeg" alt="04" title="Python + Unreal" width=600 height=293 ></div>
-<div class="slider-item"> <img src="https://i.imgur.com/WE5IUFq.jpeg" alt="05" title="Metroidvania" width=600 height=293 ></div>
-<div class="slider-item"><img src="https://i.imgur.com/JbDNGc1.jpeg" alt="06" title="Pearl" width=600 height=293 ></div>
-<div class="slider-item"> <img src="https://i.imgur.com/pkG8sGQ.jpeg" alt="07" title="Some game and level design questions" width=600 height=293 ></div>
+<div class="slider-item"><img src="https://i.imgur.com/KeDoi1g.jpeg" alt="01" title="Chaotic Table Overview" width=600 height=400 /></div> 
+<div class="slider-item"><img src="https://i.imgur.com/R6YhV7O.jpeg" alt="02" title="Construct + Magical Girl page" width=600 height=400 /></div> 
+<div class="slider-item"> <img src="https://i.imgur.com/2QjkP9M.jpeg" alt="03" title="Rust + Unity" width=600 height=400 ></div>
+<div class="slider-item"><img src="https://i.imgur.com/SuC1vXw.jpeg" alt="04" title="Python + Unreal" width=600 height=400 ></div>
+<div class="slider-item"> <img src="https://i.imgur.com/WE5IUFq.jpeg" alt="05" title="Metroidvania" width=600 height=400 ></div>
+<div class="slider-item"><img src="https://i.imgur.com/JbDNGc1.jpeg" alt="06" title="Pearl" width=600 height=400 ></div>
+<div class="slider-item"> <img src="https://i.imgur.com/pkG8sGQ.jpeg" alt="07" title="Some game and level design questions" width=600 height=400 ></div>
 </div> 
 </section>
 </div>
