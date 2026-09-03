@@ -1,5 +1,4 @@
-# Status: Doing
-
+# Status: Done
 This is a course that I'm taking during March 2026  titled 
 ["Designing Cities for Video Games"](https://www.d6learning.com/course/gamecities26). This course focus onto the principles of urbanism applied to game cities.
 
