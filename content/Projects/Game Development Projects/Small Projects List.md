@@ -5,7 +5,7 @@ This is a list of projects in which I have participated as a game developer:
 ## [[Nova ZYN]]
 During March 2026 I took a course called ["Designing Cities for Video Games"](https://www.d6learning.com/course/gamecities26) and for the final assignment I revisited an older project I made during the CGMA course, that resulted in my first [project in Godot](https://github.com/PamNawi/Walking-Spider-City---Godot) after 2 weeks of work on it.
 
-![[Pasted image 20260903155837.png]]
+![[Pasted image 20260421232332.png]]
 
 ## [Pearl of the Deep]([https://itch.io/jam/metroidvania-month-31-magical-girl-game-jam-13/rate/4380507](https://mattemade.itch.io/pearl-of-the-deep))
 During February I participated in a big team as a level designer to make a game for [Metroidvania Month 31 x Magical Girl Game Jam 13](https://itch.io/jam/metroidvania-month-31-magical-girl-game-jam-13). This jam had proposed a creation of a metroidvania with a magical girl setup, there was many themes: Unity, Unreal, Construct, Rust, Python, Pearl. We choose Pearl. It was a whole month of work, I was... exhausted on this process, but learned a lot about level design for this specific genre.
