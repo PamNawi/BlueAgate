@@ -37,6 +37,7 @@ tags:
 - [The no Twinkie Database](http://www.designersnotebook.com/Design_Resources/No_Twinkie_Database/no_twinkie_database.htm)
 - [[Links Recomendados]]
 - [Konstantinos's city-focused Pinterest collection of references](https://gr.pinterest.com/gnomekd/)
+- [GamesCrye GDD examples]("https://gamescrye.com/resources/game-design-documents/")
 
 # Useful Tools for Designing Game Cities
 - [GIS](https://www.qgis.org/en/site/): At its simplest, a geographic information system (GIS) creates maps and connects them to databases. QGIS is a good open-source, free alternative. 
