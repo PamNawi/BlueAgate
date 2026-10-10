@@ -7,7 +7,7 @@ title: Game Development Projects
 aliases:
   - Game Development Projects
 ---
-This is a list of projects in which I have participated as a game developer
+This is a list of projects in which I have participated as a game developer. You can also see the [[Small Projects List]] that cover smaller projects that I made during jams.
 
 # [[Projects/Game Development Projects/Oneira/index|Oneira]] [2024 - Present]
 
