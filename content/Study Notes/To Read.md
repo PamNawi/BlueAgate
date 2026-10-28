@@ -18,6 +18,7 @@ https://medium.com/@akshatsultania98/the-nemesis-system-the-narrative-generator-
 https://www.gameaipro.com/GameAIPro/GameAIPro_Chapter09_An_Introduction_to_Utility_Theory.pdf
 
 https://pizzalegacy.nl/blog/traffic-system.html
+https://www.youtube.com/shorts/l35pd4uCE0A
 
 https://www.youtube.com/watch?v=K-D2vuKMQhk
 
