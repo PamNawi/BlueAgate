@@ -72,7 +72,7 @@ Its the mostly easy solution to be implemented, yet computationally impossible i
 - No agents would be capable of storing this big table
 - No human would be capable of creating that many entries
 
-Yet, the agent based on tables does what is desired, since it implements an agent function. On other view, this approach on games is possible do be done, but we can implement in other way if we think in an Oriented Object approach where the basic state is an object.
+Yet, the agent based on tables does what is desired, since it implements an agent function. On other view, this approach on games is impossible do be done, but we can implement in other way if we think in an Oriented Object approach where the basic state is an object.
 
 # State Design Pattern
 Since state machines are graphs we do have other ways to represent them. One way to represent is just using a simple switch case over a variable, but that can get messy very soon, specially when the conditionals needs more than one variable. The [State Pattern](https://en.wikipedia.org/wiki/State_pattern) was set to solve two main problems that arise when the state machine starts to grow:
