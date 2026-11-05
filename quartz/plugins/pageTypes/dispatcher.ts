@@ -15,7 +15,8 @@ function getPageTypes(ctx: BuildCtx): QuartzPageTypePluginInstance[] {
   return (ctx.cfg.plugins.pageTypes ?? []) as unknown as QuartzPageTypePluginInstance[]
 }
 
-function resolveLayout(
+/** @internal Exported for testing only. */
+export function resolveLayout(
   pageType: QuartzPageTypePluginInstance,
   sharedDefaults: Partial<FullPageLayout>,
   byPageType: Record<string, Partial<FullPageLayout>>,
@@ -31,12 +32,13 @@ function resolveLayout(
     afterBody: overrides.afterBody ?? sharedDefaults.afterBody ?? [],
     left: overrides.left ?? sharedDefaults.left ?? [],
     right: overrides.right ?? sharedDefaults.right ?? [],
-    footer: overrides.footer ?? sharedDefaults.footer!,
+    footer: overrides.footer ?? sharedDefaults.footer ?? [],
     frame,
   }
 }
 
-function collectComponents(
+/** @internal Exported for testing only. */
+export function collectComponents(
   pageTypes: QuartzPageTypePluginInstance[],
   sharedDefaults: Partial<FullPageLayout>,
   byPageType: Record<string, Partial<FullPageLayout>>,
@@ -52,10 +54,10 @@ function collectComponents(
       ...layout.afterBody,
       ...layout.left,
       ...layout.right,
-      layout.footer,
+      ...layout.footer,
     ]
     for (const c of all) {
-      seen.add(c)
+      if (c) seen.add(c)
     }
   }
   return [...seen]
@@ -88,7 +90,7 @@ async function emitPage(
           ? "/"
           : new URL(`https://${cfg.baseUrl ?? "example.com"}`).pathname) as FullSlug)
       : pathToRoot(slug)
-  const externalResources = pageResources(baseDir, resources)
+  const externalResources = pageResources(baseDir, resources, ctx)
   const componentData: QuartzComponentProps = {
     ctx,
     fileData,
@@ -126,7 +128,7 @@ function populateVirtualPageHtmlAst(
   const cfg = ctx.cfg.configuration
   for (const ve of virtualEntries) {
     const BodyComponent = ve.layout.pageBody
-    const externalResources = pageResources(pathToRoot(ve.vpSlug), resources)
+    const externalResources = pageResources(pathToRoot(ve.vpSlug), resources, ctx)
     const componentData: QuartzComponentProps = {
       ctx,
       fileData: ve.vfile.data,
@@ -198,11 +200,15 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
         }
       }
 
-      // Render Body components to populate htmlAst for transclusion
-      populateVirtualPageHtmlAst(virtualEntries, ctx, allFiles, resources)
-
-      // Merge virtual page data into allFiles so renderPage can resolve transcludes
+      // Merge virtual page data into allFiles before populating htmlAst so that
+      // Body components rendered during populateVirtualPageHtmlAst can resolve
+      // cross-virtual-page embeds (e.g. a .base file embedded in a .canvas file).
+      // The vfile.data objects are shared by reference, so htmlAst set on earlier
+      // entries becomes visible to later entries in the same pass.
       const allFilesWithVirtual = [...allFiles, ...virtualEntries.map((ve) => ve.vfile.data)]
+
+      // Render Body components to populate htmlAst for transclusion
+      populateVirtualPageHtmlAst(virtualEntries, ctx, allFilesWithVirtual, resources)
 
       // Phase 2: Emit regular pages (with virtual page data available for transclusion)
       for (const [tree, file] of content) {
@@ -288,11 +294,10 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
         }
       }
 
-      // Render Body components to populate htmlAst for transclusion
-      populateVirtualPageHtmlAst(virtualEntries, ctx, allFiles, resources)
-
-      // Merge virtual page data into allFiles for transclude resolution
       const allFilesWithVirtual = [...allFiles, ...virtualEntries.map((ve) => ve.vfile.data)]
+
+      // Render Body components to populate htmlAst for transclusion
+      populateVirtualPageHtmlAst(virtualEntries, ctx, allFilesWithVirtual, resources)
 
       // Phase 2: Emit changed regular pages
       for (const [tree, file] of content) {
