@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
   },
-"scripts": {
+  "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "build": "npx quartz build",
     "serve": "npx quartz build --serve",
@@ -20,7 +20,7 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-	"install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts --force",
+    "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts --force",
     "prebuild": "npm run install-plugins"
   },
   "engines": {
@@ -53,7 +53,7 @@
     "isomorphic-git": "^1.36.3",
     "lightningcss": "^1.31.1",
     "micromorph": "^0.4.5",
-    "minimatch": "^10.1.1",
+    "minimatch": "^11.0.4",
     "preact": "^10.28.2",
     "preact-render-to-string": "^6.6.5",
     "pretty-bytes": "^7.1.0",
@@ -62,7 +62,7 @@
     "remark-rehype": "^11.1.2",
     "rfdc": "^1.4.1",
     "serve-handler": "^6.1.6",
-    "sharp": "^0.34.5",
+    "sharp": "^0.35.5",
     "source-map-support": "^0.5.21",
     "to-vfile": "^8.0.0",
     "unified": "^11.0.5",
