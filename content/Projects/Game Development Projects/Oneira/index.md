@@ -147,3 +147,4 @@ At this point I took sometime to observe the possible spaces that could be used 
 Observe that at this moment we still had a lot of models to convey our divisions inside the terrain. At some point of the development we switched to use [Gaea](https://quadspinner.com) combined with the terrain tool from Unreal. Meanwhile our team was divided, so we could work in parallel in more areas than just the inside of the Bath-House. My computer was screaming at me every time I had to move a mountain here. Each icon is to indicate where each member is working at the moment.
 
 ![[Pasted image 20251121164600.png]]
+![[Pasted image 20261105134420.png]]![[Pasted image 20261105134434.png]]![[Pasted image 20261105134510.png]]

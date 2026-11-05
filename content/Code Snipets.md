@@ -48,5 +48,11 @@ TEXT/IMAGES GO HERE.
 </div>
 
 https://www.asterism-m.com/item/table/table-memo01.php
-
+https://rentry.co/borderdividers
+https://rentry.co/crusherframes
+https://rentry.co/pastelhalo
+https://rentry.co/decor-dividers
+https://gabestash.neocities.org/dividers/menu
+https://rentry.co/decor-dividers
+https://drive.google.com/drive/folders/1a4Pdv0rZHqDVDTCJCFz6xUlpseu2nQEw
 https://github.com/quartz-community/awesome-quartz?tab=readme-ov-file#guides

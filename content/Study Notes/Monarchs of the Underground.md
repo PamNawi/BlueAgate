@@ -4,6 +4,7 @@ tags:
   - SteveRabin
   - JeffOrkin
   - CraigReynolds
+draft: "true"
 ---
 This is a list of people who are Monarchs of the Underground in a way, they are people that have helped the community of their areas and are mentioned everywhere on their fields. If you are studying a subject, you will see their names everywhere. The objective of this list, almost like people would call a temple on the neocities, is to remind me of their names and facilitate other people when they start to learn. This is not a sequence of importance, but as I remembered or stumbled upon the person:
 # Artificial Intelligence:
