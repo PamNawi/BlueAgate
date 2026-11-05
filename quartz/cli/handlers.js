@@ -22,7 +22,6 @@ import {
   gitPull,
   popContentFolder,
   stashContentFolder,
-  symlinkOrCopy,
 } from "./helpers.js"
 import {
   handlePluginRestore,
@@ -211,7 +210,7 @@ export async function handleCreate(argv) {
         preserveTimestamps: true,
       })
     } else if (setupStrategy === "symlink") {
-      await symlinkOrCopy(originalFolder, contentFolder)
+      await fs.promises.symlink(originalFolder, contentFolder, "dir")
     }
   } else if (setupStrategy === "new") {
     await fs.promises.writeFile(
@@ -321,11 +320,6 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
  * @param {*} argv arguments for `build`
  */
 export async function handleBuild(argv) {
-  if (argv.concurrency !== undefined && argv.concurrency < 1) {
-    console.error("Concurrency must be at least 1")
-    process.exit(1)
-  }
-
   if (argv.serve) {
     argv.watch = true
   }
@@ -415,9 +409,7 @@ export async function handleBuild(argv) {
     }
 
     const result = await ctx.rebuild().catch((err) => {
-      console.error(
-        `${styleText("red", "Failed to build Quartz.")} Check for syntax errors in your configuration or plugins.`,
-      )
+      console.error(`${styleText("red", "Couldn't parse Quartz configuration:")} ${fp}`)
       console.log(`Reason: ${styleText("gray", err.message ?? String(err))}`)
       process.exit(1)
     })
@@ -553,26 +545,8 @@ export async function handleBuild(argv) {
       return serve()
     })
 
-    server.on("error", (err) => {
-      if (err.code === "EADDRINUSE") {
-        console.error(
-          `Port ${argv.port} is already in use. Try a different port with --port <number>`,
-        )
-        process.exit(1)
-      }
-      throw err
-    })
     server.listen(argv.port)
     const wss = new WebSocketServer({ port: argv.wsPort })
-    wss.on("error", (err) => {
-      if (err.code === "EADDRINUSE") {
-        console.error(
-          `WebSocket port ${argv.wsPort} is already in use. Try a different port with --wsPort <number>`,
-        )
-        process.exit(1)
-      }
-      throw err
-    })
     wss.on("connection", (ws) => connections.push(ws))
     console.log(
       styleText(
@@ -593,8 +567,6 @@ export async function handleBuild(argv) {
       "**/*.tsx",
       "**/*.scss",
       "package.json",
-      "quartz.config.yaml",
-      "quartz.config.default.yaml",
     ])
     chokidar
       .watch(paths, { ignoreInitial: true })
@@ -651,10 +623,7 @@ export async function handleUpgrade(argv) {
     }
 
     if (!pullOk) {
-      console.log(
-        styleText("red", "An error occurred while pulling updates.") +
-          "\nCheck your network connection and git credentials. If you see merge conflicts, resolve them manually and run `npx quartz sync --no-pull`.",
-      )
+      console.log(styleText("red", "An error occurred above while pulling updates."))
       await popContentFolder(contentFolder)
       if (fs.existsSync(lockfileBackup)) fs.unlinkSync(lockfileBackup)
       return
@@ -700,10 +669,7 @@ export async function handleUpgrade(argv) {
   if (res.status === 0) {
     console.log(styleText("green", "Dependencies updated!"))
   } else {
-    console.log(
-      styleText("red", "An error occurred while installing dependencies.") +
-        "\nTry running `npm install` manually to see detailed errors.",
-    )
+    console.log(styleText("red", "An error occurred above while installing dependencies."))
   }
 
   console.log("Restoring plugins from lockfile...")
@@ -772,10 +738,7 @@ export async function handleSync(argv) {
     try {
       gitPull(ORIGIN_NAME, QUARTZ_SOURCE_BRANCH)
     } catch {
-      console.log(
-        styleText("red", "An error occurred while pulling updates from your repository.") +
-          "\nCheck your network connection and git credentials.",
-      )
+      console.log(styleText("red", "An error occurred above while pulling updates."))
       await popContentFolder(contentFolder)
       return
     }
@@ -790,8 +753,7 @@ export async function handleSync(argv) {
     })
     if (res.status !== 0) {
       console.log(
-        styleText("red", `An error occurred while pushing to remote ${ORIGIN_NAME}.`) +
-          "\nCheck that you have push access to the remote repository.",
+        styleText("red", `An error occurred above while pushing to remote ${ORIGIN_NAME}.`),
       )
       return
     }

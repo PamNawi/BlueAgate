@@ -60,9 +60,7 @@ async function mouseEnterHandler(
   })
 
   if (!response) return
-  const rawContentType = response.headers.get("Content-Type")
-  if (!rawContentType) return
-  const [contentType] = rawContentType.split(";")
+  const [contentType] = response.headers.get("Content-Type")!.split(";")
   const [contentTypeCategory, typeInfo] = contentType.split("/")
 
   const popoverElement = document.createElement("div")

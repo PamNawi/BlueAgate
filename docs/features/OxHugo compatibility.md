@@ -27,13 +27,18 @@ plugins:
     order: 5
 ```
 
-For the TS override approach, place overrides before `loadQuartzConfig()` in `quartz.ts`:
+For the TS override approach:
 
 ```ts title="quartz.ts (override)"
-import * as ExternalPlugin from "./.quartz/plugins"
-
-ExternalPlugin.NoteProperties({ delims: "+++", language: "toml" })
-ExternalPlugin.OxHugoFlavouredMarkdown()
+plugins: {
+  transformers: [
+    ExternalPlugin.FrontMatter({ delims: "+++", language: "toml" }),
+    // ...
+    ExternalPlugin.OxHugoFlavouredMarkdown(),
+    ExternalPlugin.GitHubFlavoredMarkdown(),
+    // ...
+  ],
+}
 ```
 
 > [!note]

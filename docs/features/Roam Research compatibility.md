@@ -19,12 +19,17 @@ plugins:
     order: 30
 ```
 
-For the TS override approach, place overrides before `loadQuartzConfig()` in `quartz.ts`:
+For the TS override approach:
 
 ```ts title="quartz.ts (override)"
-import * as ExternalPlugin from "./.quartz/plugins"
-
-ExternalPlugin.RoamFlavoredMarkdown()
+plugins: {
+  transformers: [
+    // ...
+    ExternalPlugin.RoamFlavoredMarkdown(),
+    ExternalPlugin.ObsidianFlavoredMarkdown(),
+    // ...
+  ],
+}
 ```
 
 > [!warning]

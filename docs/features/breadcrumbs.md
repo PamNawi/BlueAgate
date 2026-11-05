@@ -34,7 +34,6 @@ plugins:
 For the TS override approach:
 
 ```ts title="quartz.ts (override)"
-// Must be placed before loadQuartzConfig()
 ExternalPlugin.Breadcrumbs({
   spacerSymbol: "❯",
   rootName: "Home",
